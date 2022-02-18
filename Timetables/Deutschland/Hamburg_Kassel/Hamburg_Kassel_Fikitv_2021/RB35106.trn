@@ -3,7 +3,7 @@
 <Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
 <Zug Gattung="RB" Nummer="35106" Prio="1900" BremsstellungZug="5" MBrh="1.6759" APBeschl="1" ReisendenDichte="0.6" FahrplanGruppe="9b. RB15 Dannenberg Ost - Winsen (Luhe)" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Lüneburg Gbf C003" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
 <Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
-<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35102.timetable.xml"/>
+<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35106.timetable.xml"/>
 <FahrplanEintrag Ank="2021-07-21 10:57:00" Abf="2021-07-21 10:57:00" Betrst="Lüneburg Gbf" FplEintrag="1">
 <FahrplanSignalEintrag FahrplanSignal="C003"/>
 </FahrplanEintrag>

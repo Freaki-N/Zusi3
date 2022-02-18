@@ -3,7 +3,7 @@
 <Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
 <Zug Gattung="EZ" Nummer="51488" Zuglauf="Nürnberg Rbf Ausf. - Maschen Rbf" Prio="2200" BremsstellungZug="2" MBrh="1.841" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="9. Güterverkehr ri. Norden" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Kassel-Wilhelmshöhe S603" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
 <Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
-<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE1000.timetable.xml"/>
+<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\EZ51488.timetable.xml"/>
 <FahrplanEintrag Ank="2021-07-21 04:20:00" Abf="2021-07-21 04:20:00" Betrst="Kassel-Wilhelmshöhe" FplEintrag="1">
 <FahrplanSignalEintrag FahrplanSignal="S603"/>
 </FahrplanEintrag>

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
 <Info DateiTyp="Buchfahrplan" Version="A.4" MinVersion="A.0"/>
-<Buchfahrplan Gattung="RB" Nummer="35102" BR="642" Masse="164000" spMax="33.3333" Bremsh="1.7561" MBrh="1.6759" Laenge="83.4" LaengeLoks="83.4" kmStart="226.435" BremsstellungZug="5">
+<Buchfahrplan Gattung="RB" Nummer="35104" BR="642" Masse="164000" spMax="33.3333" Bremsh="1.7561" MBrh="1.6759" Laenge="83.4" LaengeLoks="83.4" kmStart="226.435" BremsstellungZug="5">
 <Datei_fpn Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
-<Datei_trn Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35102.trn" NurInfo="1"/>
+<Datei_trn Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35104.trn" NurInfo="1"/>
 <UTM UTM_WE="565" UTM_NS="5786" UTM_Zone="32" UTM_Zone2="U"/>
 <Fzg FahrzeugZusatzinfo="642 049"/>
 <Fzg FahrzeugZusatzinfo="642 049"/>
@@ -22,8 +22,8 @@
 <FplZeile FplLaufweg="2543.6934">
 <FplName FplNameText="Lüneburg"/>
 <Fplkm km="228.9794"/>
-<FplAnk Ank="2021-07-21 07:01:00"/>
-<FplAbf Abf="2021-07-21 07:03:00"/>
+<FplAnk Ank="2021-07-21 09:01:00"/>
+<FplAbf Abf="2021-07-21 09:03:00"/>
 </FplZeile>
 <FplZeile FplLaufweg="2793.6929">
 <FplSignaltyp FplSignaltypNr="8"/>
@@ -194,8 +194,8 @@
 <FplZeile FplLaufweg="39931.3633">
 <FplName FplNameText="Lüneburg"/>
 <Fplkm km="228.9712"/>
-<FplAnk Ank="2021-07-21 07:56:00"/>
-<FplAbf Abf="2021-07-21 08:02:00"/>
+<FplAnk Ank="2021-07-21 09:56:00"/>
+<FplAbf Abf="2021-07-21 10:02:00"/>
 </FplZeile>
 <FplZeile FplLaufweg="40076.2734">
 <FplSignaltyp FplSignaltypNr="8"/>
