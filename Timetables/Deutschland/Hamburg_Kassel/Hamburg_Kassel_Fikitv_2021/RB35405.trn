@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="RB" Nummer="35405" Zuglauf="Hamburg Hbf - Lüneburg" Prio="2250" BremsstellungZug="5" MBrh="1.855" APBeschl="1" ReisendenDichte="0.6" FahrplanGruppe="8. RB4 Lüneburg - Hamburg Hbf" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Hmb-Harburg 41F" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35405.timetable.xml"/>
+<FahrplanEintrag Ank="2021-07-21 07:01:00" Abf="2021-07-21 07:01:00" Betrst="Hmb-Harburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="41F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:04:00" Abf="2021-07-21 07:05:00" Betrst="Hmb-Harburg">
+<FahrplanSignalEintrag FahrplanSignal="41U4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Hmb-Harburg">
+<FahrplanSignalEintrag FahrplanSignal="41P4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:07:30" Abf="2021-07-21 07:08:00" Betrst="Meckelfeld Hp"/>
+<FahrplanEintrag Betrst="Bft Meckelfeld Abzw">
+<FahrplanSignalEintrag FahrplanSignal="H"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Maschen Pbf">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:11:30" Abf="2021-07-21 07:12:00" Betrst="Maschen Pbf">
+<FahrplanSignalEintrag FahrplanSignal="P3"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Stelle">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:14:30" Abf="2021-07-21 07:15:00" Betrst="Stelle">
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:17:30" Abf="2021-07-21 07:18:00" Betrst="Ashausen Hp"/>
+<FahrplanEintrag Betrst="Winsen (Luhe)">
+<FahrplanSignalEintrag FahrplanSignal="63G"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:20:00" Abf="2021-07-21 07:21:00" Betrst="Winsen (Luhe)">
+<FahrplanSignalEintrag FahrplanSignal="63P4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 63336">
+<FahrplanSignalEintrag FahrplanSignal="63336"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:25:30" Abf="2021-07-21 07:26:00" Betrst="Radbruch Hp"/>
+<FahrplanEintrag Betrst="Sbk 65328">
+<FahrplanSignalEintrag FahrplanSignal="65328"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:29:30" Abf="2021-07-21 07:30:00" Betrst="Bardowick Hp"/>
+<FahrplanEintrag Betrst="Sbk 65316">
+<FahrplanSignalEintrag FahrplanSignal="65316"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lüneburg">
+<FahrplanSignalEintrag FahrplanSignal="S390"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:34:00" Abf="2021-07-21 07:37:00" Betrst="Lüneburg">
+<FahrplanSignalEintrag FahrplanSignal="S302"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="3" IDNeben="2" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0442 753-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0443 252-2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Mittelantriebswagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0443 714-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Mittellaufwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="94 80 0442 221-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="2" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0442 776-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0443 216-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Mittelantriebswagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0443 711-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Mittellaufwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="94 80 0442 265-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

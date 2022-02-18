@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="RE" Nummer="4900" Zuglauf="Celle - Göttingen" BRAngabe="193 + Stwg" Prio="2250" BremsstellungZug="5" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="5. RE2 Götttingen - Celle" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Celle S4" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2021-07-21 04:00:00" Abf="2021-07-21 04:10:00" Betrst="Celle">
+<FahrplanSignalEintrag FahrplanSignal="S4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 04:17:00" Betrst="Celle Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P24"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 04:33:00" Betrst="Sbk 768">
+<FahrplanSignalEintrag FahrplanSignal="768"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 04:49:00" Betrst="Sbk 766">
+<FahrplanSignalEintrag FahrplanSignal="766"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 05:06:00" Betrst="Ehlershausen">
+<FahrplanSignalEintrag FahrplanSignal="7F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 05:15:00" Betrst="Ehlershausen">
+<FahrplanSignalEintrag FahrplanSignal="7P702"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 05:22:00" Betrst="Ehlershausen"/>
+<FahrplanEintrag Abf="2021-07-21 05:29:00" Betrst="Sbk 668">
+<FahrplanSignalEintrag FahrplanSignal="668"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 05:35:00" Betrst="Otze Hp"/>
+<FahrplanEintrag Abf="2021-07-21 05:41:00" Betrst="Sbk 666">
+<FahrplanSignalEintrag FahrplanSignal="666"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 05:57:00" Betrst="Burgdorf">
+<FahrplanSignalEintrag FahrplanSignal="6F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:04:00" Betrst="Burgdorf">
+<FahrplanSignalEintrag FahrplanSignal="S642"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:10:00" Betrst="Burgdorf">
+<FahrplanSignalEintrag FahrplanSignal="P602"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:29:00" Betrst="Sbk 562">
+<FahrplanSignalEintrag FahrplanSignal="Sbk 562"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:35:00" Betrst="Aligse Hp"/>
+<FahrplanEintrag Abf="2021-07-21 06:42:00" Betrst="Lehrte Nord">
+<FahrplanSignalEintrag FahrplanSignal="C"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:49:00" Betrst="Lehrte Nord">
+<FahrplanSignalEintrag FahrplanSignal="R221"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:54:00" Betrst="Lehrte Pbf">
+<FahrplanSignalEintrag FahrplanSignal="T151"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:58:00" Betrst="Lehrte Pbf">
+<FahrplanSignalEintrag FahrplanSignal="X011"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:03:00" Betrst="Lehrte Pbf">
+<FahrplanSignalEintrag FahrplanSignal="Q730"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:12:00" Abf="2021-07-21 08:12:00" Betrst="Lehrte Pbf">
+<FahrplanSignalEintrag FahrplanSignal="Y872"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="4" IDNeben="2" DotraModus="1" SASchaltung="2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektroloks\Vectron\Vectron_MS.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1" DotraModus="1" Gedreht="1" NVRNummer="50 80 86-81 050-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpbzfa_766.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

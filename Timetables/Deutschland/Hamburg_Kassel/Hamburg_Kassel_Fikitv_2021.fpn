@@ -1,0 +1,569 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Fahrplan" Version="A.4" MinVersion="A.1"/>
+<Fahrplan AnfangsZeit="2021-07-21 02:00:00" trnDateien="1">
+<BefehlsKonfiguration Dateiname="signals\Deutschland\Befehle\408_2015.authority.xml"/>
+<LaPDF/>
+<StrebuPDF/>
+<ErsatzfahrplaenePDF/>
+<Begruessungsdatei/>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE1001.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE1000.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE500.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE503.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE550.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE551.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE1002.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE502.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE552.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE1003.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE505.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE553.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4902.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35300.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35301.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35302.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35303.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35304.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35305.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35306.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35307.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35308.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35309.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4704.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4806.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35204.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35406.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE501.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4901.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35207.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4803.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4701.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4702.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4703.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4705.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35403.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE1521.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\GM60121.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35200.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35203.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35102.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35405.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4804.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4802.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4801.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4808.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4903.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4904.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\IC2108.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE1004.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE504.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE554.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE1006.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE506.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE556.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE1005.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE507.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE555.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE1007.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE509.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE557.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE548.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\NJ40492.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35400.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35401.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35402.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35404.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35407.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35408.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35409.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35410.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35411.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35412.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35413.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35414.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35415.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4905.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4906.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35211.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35208.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4807.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35310.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35311.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4810.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4706.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4707.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\FLX1241.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4907.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4908.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4909.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4910.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\EZ51488.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35104.trn"/>
+</Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35106.trn"/>
+</Zug>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0005_0057\000533_005686_Kassel_Hbf\Kassel_Hbf_1988.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Harleshausen_1980.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0005_0057\000533_005687_Kassel_Rbf\Kassel_Rbf_1988.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0005_0057\000534_005686_Kassel_Unterstadt\Kassel_Unterstadt_GF_Dummy.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0005_0057\000534_005689_Niedervellmar\Niedervellmar_2000.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0005_0057\000537_005690_Ihringshausen\Ihringshausen_2000.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0005_0057\000541_005691_Lutterberg\Lutterberg_2000.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0005_0057\000542_005694_Bonaforth\Bonaforth_2005.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0005_0057\000548_005695_Lippoldshausen\Lippoldshausen_2000.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0057\000558_005703_Juehnde\Juehnde_2000.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0057\000562_005708_Siekweg\Siekweg_2000.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0057\000563_005706_Rosdorf\Rosdorf_1998.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0057\000564_005703_Obernjesa\Obernjesa_1996.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0057\000564_005711_Goettingen_Pbf\Goettingen_Pbf_2000.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0057\000564_005713_Goettingen_Gbf\Goettingen_Gbf_2000.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0057\000565_005719_Noerten-Hardenberg\Noerten-Hardenberg_1998.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0057\000567_005726_Sudheim\Sudheim_1993.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0057\000567_005731_Edesheim\Edesheim_2007.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0057\000567_005740_Ahlshausen\Ahlshausen_2006.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0057\000568_005748_Orxhausen\Orxhausen_1999.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000558_005781_Escherde\Escherde_2005.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000561_005773_Sorsum\Sorsum_2003.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000561_005779_Emmerke\Emmerke_1998.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000564_005765_Almstedt\Almstedt_2006.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000564_005779_Hildesheim_Gbf\Hildesheim_Gbf_2001.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000565_005804_Lehrte_West\Lehrte_West_2008.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000566_005780_Hildesheim_Hbf\Hildesheim_Hbf_2001.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000566_005788_Algermissen\Algermissen_2008.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000566_005788_Harsum\Harsum_2008.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000567_005796_Sehnde\Sehnde_2010.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000568_005756_Gehrenrode\Gehrenrode_2002.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000568_005809_Burgdorf\Burgdorf_2017.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000569_005802_Lehrte_Ost\Lehrte_Ost_2008.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000569_005816_Otze\Otze_2018.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000569_005818_Ehlershausen\Ehlershausen_2017.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000571_005823_Celle\Celle_2017.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000576_005836_Garssen\Garssen_2017.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0058\000582_005845_Eschede\Eschede_2017.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000567_005923_Hamburg_Harburg\Hamburg_Harburg_2018.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000569_005919_Maschen_Rbf_Nord\Maschen_Rbf_Nord_2006.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000571_005917_Maschen_Rbf_Sued\Maschen_Rbf_Sued_2014.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000575_005915_Stelle\Stelle_2020.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000580_005912_Winsen_Luhe\Winsen_Luhe_2019.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000586_005908_Radbruch\Radbruch_2019.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000589_005854_Unterluess\Unterluess_2016.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000590_005906_Bardowick\Bardowick_2019.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000594_005900_Lueneburg\Lueneburg_2019.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000597_005894_Deutsch_Evern\Deutsch_Evern_2018.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000598_005863_Suderburg\Suderburg_2017.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000600_005866_KleinSuestedt\KleinSuestedt_2017.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000602_005887_Bienenbuettel\Bienenbuettel_2019.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000603_005870_Uelzen\Uelzen_2017.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\32U_0006_0059\000604_005880_Bad_Bevensen\Bad_Bevensen_2018.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000531_005684_Kassel_Wilhelmshoehe\Kassel_Wilhelmshoehe_1988.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000532_005686_Kassel_Bahndreieck\Kassel_Bahndreieck_1990.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<UTM UTM_WE="565" UTM_NS="5786" UTM_Zone="32" UTM_Zone2="U"/>
+</Fahrplan>
+</Zusi>

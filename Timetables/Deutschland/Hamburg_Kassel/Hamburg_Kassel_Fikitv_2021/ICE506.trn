@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="ICE" Nummer="506" Zuglauf="München Hbf - Hamburg Altona" Prio="2500" BremsstellungZug="5" MBrh="1.841" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="1. Fernverkehr ri. Norden" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Kassel-Wilhelmshöhe S603" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE506.timetable.xml"/>
+<FahrplanEintrag Ank="2021-07-21 08:51:00" Abf="2021-07-21 08:51:00" Betrst="Kassel-Wilhelmshöhe" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="S603"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 08:54:00" Abf="2021-07-21 08:56:00" Betrst="Kassel-Wilhelmshöhe">
+<FahrplanSignalEintrag FahrplanSignal="P503"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Kassel-Wilhelmshöhe" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="238"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:58:00" Betrst="Abzw Nord/West B">
+<FahrplanSignalEintrag FahrplanSignal="236"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:59:00" Betrst="Abzw Nord/West A">
+<FahrplanSignalEintrag FahrplanSignal="234"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 199">
+<FahrplanSignalEintrag FahrplanSignal="Sbk 199"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:01:00" Betrst="F-Ihringshausen">
+<FahrplanSignalEintrag FahrplanSignal="P103"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:03:00" Betrst="Üst Lutterberg">
+<FahrplanSignalEintrag FahrplanSignal="62"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:05:00" Betrst="Üst Kattenbühl">
+<FahrplanSignalEintrag FahrplanSignal="18"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:06:00" Betrst="Üst Lippoldshsn">
+<FahrplanSignalEintrag FahrplanSignal="10"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Jühnde Bbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="F720"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:09:00" Betrst="Jühnde Bbf">
+<FahrplanSignalEintrag FahrplanSignal="P702"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:10:00" Betrst="Üst Mengershausen">
+<FahrplanSignalEintrag FahrplanSignal="712"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:12:00" Betrst="Abzw Siekweg">
+<FahrplanSignalEintrag FahrplanSignal="632"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Göttingen Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="G605"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 09:14:00" Abf="2021-07-21 09:15:00" Betrst="Bft Göttingen Pbf">
+<FahrplanSignalEintrag FahrplanSignal="P9"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 626">
+<FahrplanSignalEintrag FahrplanSignal="626"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Nörten-Hardenbg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="G"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:19:00" Betrst="Nörten-Hardenbg">
+<FahrplanSignalEintrag FahrplanSignal="P053"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 204">
+<FahrplanSignalEintrag FahrplanSignal="204"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:21:00" Betrst="Üst Sudheim">
+<FahrplanSignalEintrag FahrplanSignal="112"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:23:00" Betrst="Abzw Edesheim">
+<FahrplanSignalEintrag FahrplanSignal="108"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 528">
+<FahrplanSignalEintrag FahrplanSignal="528"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:24:00" Betrst="Üst Ahlshausen">
+<FahrplanSignalEintrag FahrplanSignal="522"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Orxhausen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="F516"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:27:00" Betrst="Orxhausen">
+<FahrplanSignalEintrag FahrplanSignal="P502"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:30:00" Betrst="Üst Gehrenrode">
+<FahrplanSignalEintrag FahrplanSignal="408"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:32:00" Betrst="Üst Netze">
+<FahrplanSignalEintrag FahrplanSignal="402"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Almstedt" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="F316"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:34:00" Betrst="Almstedt">
+<FahrplanSignalEintrag FahrplanSignal="P302"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:36:00" Betrst="Üst Diekholzen">
+<FahrplanSignalEintrag FahrplanSignal="206"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:38:00" Betrst="Abzw Sorsum">
+<FahrplanSignalEintrag FahrplanSignal="118"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:39:00" Betrst="Abzw Himmelsthür">
+<FahrplanSignalEintrag FahrplanSignal="364"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:40:00" Betrst="Bk Himmelsthür">
+<FahrplanSignalEintrag FahrplanSignal="B"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:42:00" Betrst="Hildesheim Gbf">
+<FahrplanSignalEintrag FahrplanSignal="R32"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 09:43:00" Abf="2021-07-21 09:44:00" Betrst="Hildesheim Hbf">
+<FahrplanSignalEintrag FahrplanSignal="N6"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Harsum" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="F054"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:48:00" Betrst="Harsum">
+<FahrplanSignalEintrag FahrplanSignal="P032"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:50:00" Betrst="Algermissen">
+<FahrplanSignalEintrag FahrplanSignal="P102"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sehnde" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="F254"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:54:00" Betrst="Sehnde">
+<FahrplanSignalEintrag FahrplanSignal="P201"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="H"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="S854"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="S824"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="S750"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:01:00" Betrst="Lehrte Pbf">
+<FahrplanSignalEintrag FahrplanSignal="U013"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Nord" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="X153"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:03:00" Betrst="Lehrte Nord">
+<FahrplanSignalEintrag FahrplanSignal="P223"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:04:00" Betrst="Aligse Hp"/>
+<FahrplanEintrag Abf="2021-07-21 10:07:00" Betrst="Burgdorf">
+<FahrplanSignalEintrag FahrplanSignal="R601"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Burgdorf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="N641"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:09:00" Betrst="Otze Hp"/>
+<FahrplanEintrag Betrst="Sbk 665">
+<FahrplanSignalEintrag FahrplanSignal="665"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:11:00" Betrst="Ehlershausen">
+<FahrplanSignalEintrag FahrplanSignal="7N701"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 767" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="767"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:16:00" Betrst="Celle Gbf">
+<FahrplanSignalEintrag FahrplanSignal="R24"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 10:17:00" Abf="2021-07-21 10:19:00" Betrst="Celle">
+<FahrplanSignalEintrag FahrplanSignal="N5"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 76121">
+<FahrplanSignalEintrag FahrplanSignal="76121"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:22:00" Betrst="Garßen">
+<FahrplanSignalEintrag FahrplanSignal="75N2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 74101">
+<FahrplanSignalEintrag FahrplanSignal="74101"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:26:00" Betrst="Eschede">
+<FahrplanSignalEintrag FahrplanSignal="74N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 73101">
+<FahrplanSignalEintrag FahrplanSignal="73101"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:30:00" Betrst="Unterlüß">
+<FahrplanSignalEintrag FahrplanSignal="73N8"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 72101">
+<FahrplanSignalEintrag FahrplanSignal="72101"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:35:00" Betrst="Suderburg">
+<FahrplanSignalEintrag FahrplanSignal="72N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:36:00" Betrst="Klein Süstedt">
+<FahrplanSignalEintrag FahrplanSignal="71N2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:39:00" Betrst="Uelzen Gbf">
+<FahrplanSignalEintrag FahrplanSignal="R2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:39:00" Betrst="Uelzen">
+<FahrplanSignalEintrag FahrplanSignal="N102"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 61">
+<FahrplanSignalEintrag FahrplanSignal="61"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bad Bevensen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="A"/>
+<FahrplanFahrstrasseEintrag FahrplanFahrstrasse="Bad Bevensen A -&gt; Bad Bevensen N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:44:00" Betrst="Bad Bevensen">
+<FahrplanSignalEintrag FahrplanSignal="N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:47:00" Betrst="Bienenbüttel">
+<FahrplanSignalEintrag FahrplanSignal="N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:50:00" Betrst="Deutsch Evern">
+<FahrplanSignalEintrag FahrplanSignal="N2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:51:00" Betrst="Lüneburg Gbf">
+<FahrplanSignalEintrag FahrplanSignal="R102"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 10:52:00" Abf="2021-07-21 10:54:00" Betrst="Lüneburg">
+<FahrplanSignalEintrag FahrplanSignal="T202"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lüneburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="N272"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:58:00" Betrst="Bardowick">
+<FahrplanSignalEintrag FahrplanSignal="65N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 65127">
+<FahrplanSignalEintrag FahrplanSignal="65127"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 11:01:00" Betrst="Radbruch Hp"/>
+<FahrplanEintrag Betrst="Sbk 63135">
+<FahrplanSignalEintrag FahrplanSignal="63135"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Winsen (Luhe)" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="63A"/>
+<FahrplanFahrstrasseEintrag FahrplanFahrstrasse="Winsen (Luhe) 63A -&gt; Winsen (Luhe) 63N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 11:03:00" Betrst="Winsen (Luhe)">
+<FahrplanSignalEintrag FahrplanSignal="63N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 11:05:00" Betrst="Abzw Ashausen">
+<FahrplanSignalEintrag FahrplanSignal="62147"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 62151">
+<FahrplanSignalEintrag FahrplanSignal="62151"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 11:06:00" Betrst="Stelle">
+<FahrplanSignalEintrag FahrplanSignal="N3"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 11:08:00" Betrst="Maschen Pbf">
+<FahrplanSignalEintrag FahrplanSignal="N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 11:09:00" Betrst="Bft Meckelfeld Abzw">
+<FahrplanSignalEintrag FahrplanSignal="O1057"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 11:09:00" Betrst="Meckelfeld Hp"/>
+<FahrplanEintrag Betrst="Sbk 181">
+<FahrplanSignalEintrag FahrplanSignal="181"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Hmb-Harburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="41B"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Hmb-Harburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="41R1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 11:11:00" Abf="2021-07-21 11:13:00" Betrst="Hmb-Harburg">
+<FahrplanSignalEintrag FahrplanSignal="41T1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Hmb-Harburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="41N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 11:16:00" Betrst="Sbk 403">
+<FahrplanSignalEintrag FahrplanSignal="403"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" DotraModus="1" SASchaltung="3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\401.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\804_WSmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\803_BSmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\801_Avmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\801_Avmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\801_Avmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\401.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

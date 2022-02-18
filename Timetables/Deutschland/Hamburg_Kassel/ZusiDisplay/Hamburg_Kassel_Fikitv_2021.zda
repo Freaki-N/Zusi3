@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Railway>
+  <Line 
+  Folder="Hamburg_Kassel_Fikitv_2021" 
+  AnnounceBasicData="..\..\Infrastrukturdaten\ZusiDisplay\Grunddaten.zda">
+    <Track>
+	  <Trains Timetable="\Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn">
+		<Train Type="SE" Number="7403" Destination="Rheine" Origin="Bielefeld Hbf" />		
+	  </Trains>
+	  <Station AnnounceExit="none" AdditionalAnnounce="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg" AdditionalAnnounceTerminus="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Endstation.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Wertgegenstaende.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg">Kassel-Wilhelmshöhe</Station>
+	  <Station AnnounceExit="none" AdditionalAnnounce="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg" AdditionalAnnounceTerminus="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Endstation.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Wertgegenstaende.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg">Kassel Hbf</Station>
+	  
+	  <!-- nach Göttingen -->
+	  <Station AnnounceExit="right" FplNameText="Abzw V-Niedervellmar Hp">Niedervellmar</Station>	  
+	  <Station AnnounceExit="right" FplNameText="F-Ihringshausen">Ihringshausen</Station>
+	  <Station AnnounceExit="right">Kragenhof</Station>	  
+	  
+	  <Station AnnounceExit="left" FplNameText="Bk Ksl-Harlesh Hp">Kassel-Harleshausen</Station>
+	  <Station AnnounceExit="right">Obervellmar</Station>
+	  <Station AnnounceExit="left">Mönchehof</Station>
+	  <Station AnnounceExit="right">Immenhausen</Station>
+	  <Station AnnounceExit="none">Grebenstein</Station>
+	  <Station AnnounceExit="left" AdditionalAnnounceTerminus="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Endstation.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Wertgegenstaende.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Regio.ogg">Hofgeismar</Station>
+	  <Station AnnounceExit="none" AdditionalAnnounceTerminus="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Endstation.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Wertgegenstaende.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Regio.ogg">Hümme</Station>
+	  <Station AnnounceExit="right" FplNameText="Eberschütz Hp">Eberschütz</Station>
+	  <Station AnnounceExit="right">Lamerden</Station>
+	  <Station AnnounceExit="right" Name="Liebenau">Liebenau(Kr. Kassel)</Station>
+	  <Station AnnounceExit="right" FplNameText="Haueda Hp" >Haueda</Station>
+	  
+	  <Station AnnounceExit="right">Scherfede</Station>
+	  
+	  <Station AnnounceExit="none" AdditionalAnnounce="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg" AdditionalAnnounceTerminus="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Endstation.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Wertgegenstaende.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg" Name="Warburg">Warburg(Westf)</Station>
+	  <Station AnnounceExit="none">Bonenburg</Station>
+	  <Station AnnounceExit="right">Willebadessen</Station>
+	  <Station AnnounceExit="none">Neuenheerse</Station>
+	  <Station AnnounceExit="left">Buke</Station>
+	  
+	  <Station AnnounceExit="left">Bad Driburg</Station>
+	  
+	  <Station AnnounceExit="none">Himmighausen</Station>
+	  
+	  <Station AnnounceExit="none" AdditionalAnnounce="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Regio.ogg" AdditionalAnnounceTerminus="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Endstation.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Wertgegenstaende.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Regio.ogg">Altenbeken</Station>
+	  <Station AnnounceExit="none">Benhausen</Station>
+	  <Station AnnounceExit="none" AdditionalAnnounce="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg" AdditionalAnnounceTerminus="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Endstation.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Wertgegenstaende.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg">Paderborn Hbf</Station>
+	  <Station AnnounceExit="none">Elsen</Station>
+	  <Station AnnounceExit="none">Scharmede</Station>
+	  <Station AnnounceExit="none">Salzkotten</Station>
+	  <Station AnnounceExit="none">Geseke</Station>
+	  <Station AnnounceExit="none">Ehringhausen</Station>
+	  <Station AnnounceExit="none">Dedinghausen</Station>
+	  <Station AnnounceExit="none">Lippstadt</Station>
+    </Track>
+	
+	<Track>
+	  <Trains Timetable="\Timetables\Deutschland\Paderborn_Kassel\PB-KS_Sommer96_5-11Uhr.fpn">
+	  
+		<!-- RB Kassel - Warburg -->
+		<Train Type="RB" Number="3979" />
+		<Train Type="RB" Number="3981" />
+		<Train Type="RB" Number="3983" />
+		<Train Type="RB" Number="3985" />
+	  
+		<!-- HVZ RB Kassel - Warburg/Hümme -->
+		<Train Type="RB" Number="8581" />
+		<Train Type="RB" Number="8583" />
+		<Train Type="RB" Number="8585" />
+		
+		<!-- IR Aachen - Kassel - Chemnitz -->
+		<Train Type="IR" Number="2451" />
+		<Train Type="IR" Number="2453" Origin="Dortmund Hbf" Destination="Chemnitz Hbf" />
+		<Train Type="IR" Number="2455" Origin="Köln Hbf" Destination="Erfurt Hbf" />
+		<Train Type="IR" Number="2457" Origin="Aachen Hbf" Destination="Chemnitz Hbf" />
+		
+		<!-- RE Hamm - Warburg -->
+		<Train Type="RE" Number="6857" Origin="Hamm(Westf)" />
+		<Train Type="RE" Number="6865" Origin="Hamm(Westf)" />
+		
+		<!-- RE Kassel - Hagen -->
+		<Train Type="RE" Number="3881" Origin="Essen Hbf" />
+		<Train Type="RE" Number="3883" Origin="Essen Hbf" />
+		
+		<!-- SE Rheine - Bielefeld -->
+		<Train Type="SE" Number="6851" Origin="Hamm(Westf)" Destination="Bielefeld Hbf" />
+		<Train Type="SE" Number="7406" Origin="Hamm(Westf)" Destination="Bielefeld Hbf" />
+		<Train Type="SE" Number="6855" Origin="Hamm(Westf)" Destination="Bielefeld Hbf" />
+		<Train Type="SE" Number="7408" Origin="Hamm(Westf)" Destination="Bielefeld Hbf" />
+		<Train Type="SE" Number="7204" Origin="Bad Bentheim" Destination="Bielefeld Hbf" />
+		<Train Type="SE" Number="7412" Origin="Bad Bentheim" Destination="Bielefeld Hbf" />
+		<Train Type="SE" Number="7210" Origin="Münster(Westf)Hbf" Destination="Bielefeld Hbf" />
+		<Train Type="SE" Number="7414" Origin="Münster(Westf)Hbf" Destination="Bielefeld Hbf" />
+		<Train Type="SE" Number="7216" Origin="Rheine" Destination="Bielefeld Hbf" />
+		<Train Type="SE" Number="7416" Origin="Rheine" Destination="Bielefeld Hbf" />
+		
+		<!-- RB Kassel Hbf - Volkmarsen -->
+		<Train Type="RB" Number="8800" Origin="Volkmarsen" />
+		<Train Type="RB" Number="8802" Origin="Volkmarsen" />
+		<Train Type="RB" Number="8804" Origin="Volkmarsen" />
+		<Train Type="RB" Number="8806" Origin="Volkmarsen" />
+		<Train Type="RB" Number="8808" Origin="Volkmarsen" />
+		<Train Type="RB" Number="8810" Origin="Volkmarsen" />
+		
+		<!-- RB Göttingen - Kassel Hbf - Bebra -->
+		<Train Type="RB" Number="8503" Destination="Bebra" />
+		<Train Type="RB" Number="8505" Destination="Bebra" />
+		<Train Type="RB" Number="8507" Destination="Bebra" />
+		<Train Type="RB" Number="8509" Destination="Bebra" />
+		<Train Type="RB" Number="8511" Destination="Bebra" />
+		<Train Type="RB" Number="8903" Origin="Hann. Münden" />
+		<Train Type="RB" Number="8905" Origin="Eichenberg" />
+		<Train Type="RB" Number="8907" Origin="Göttingen" />
+		<Train Type="RB" Number="8909" Origin="Göttingen" />
+		<Train Type="RB" Number="8911" Origin="Göttingen" />
+		<Train Type="RB" Number="8913" Origin="Göttingen" />
+		<Train Type="RE" Number="3058" Origin="Mühlhausen" />
+		<Train Type="RB" Number="14949" Origin="Hann. Münden" />
+
+	  </Trains> 
+	  <Station AnnounceExit="none">Lippstadt</Station>
+	  <Station AnnounceExit="none">Dedinghausen</Station>
+	  <Station AnnounceExit="none">Ehringhausen</Station>
+	  <Station AnnounceExit="none">Geseke</Station>
+	  <Station AnnounceExit="none">Salzkotten</Station>
+	  <Station AnnounceExit="none">Scharmede</Station>
+  	  <Station AnnounceExit="none">Elsen</Station>
+	  <Station AnnounceExit="none" AdditionalAnnounce="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg" AdditionalAnnounceTerminus="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Endstation.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Wertgegenstaende.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg">Paderborn Hbf</Station>
+	  <Station AnnounceExit="none">Benhausen</Station>
+	  <Station AnnounceExit="none" AdditionalAnnounce="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Regio.ogg" AdditionalAnnounceTerminus="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Endstation.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Wertgegenstaende.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Regio.ogg">Altenbeken</Station>
+	  
+	  <Station AnnounceExit="none">Himmighausen</Station>
+	  
+	  <Station AnnounceExit="left">Bad Driburg</Station>
+	  
+	  <Station AnnounceExit="none">Buke</Station>
+	  <Station AnnounceExit="none">Neuenheerse</Station>	  
+	  <Station AnnounceExit="none">Willebadessen</Station>
+	  <Station AnnounceExit="none">Bonenburg</Station>
+	  
+	  <Station AnnounceExit="right">Scherfede</Station>
+	  
+	  <Station AnnounceExit="none" AdditionalAnnounce="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg" AdditionalAnnounceTerminus="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Endstation.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Wertgegenstaende.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg" Name="Warburg">Warburg(Westf)</Station>
+	  <Station AnnounceExit="right" FplNameText="Haueda Hp">Haueda</Station>
+	  <Station AnnounceExit="none" Name="Liebenau">Liebenau(Kr. Kassel)</Station>
+	  <Station AnnounceExit="right">Lamerden</Station>
+	  <Station AnnounceExit="right" FplNameText="Eberschütz Hp">Eberschütz</Station>
+	  <Station AnnounceExit="none">Hümme</Station>
+	  <Station AnnounceExit="left">Hofgeismar</Station>
+	  <Station AnnounceExit="none" AdditionalAnnounceTerminus="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Endstation.ogg">Grebenstein</Station>
+	  <Station AnnounceExit="right">Immenhausen</Station>
+	  <Station AnnounceExit="none">Mönchehof</Station>
+	  <Station AnnounceExit="right">Obervellmar</Station>
+	  <Station AnnounceExit="left" FplNameText="Bk Ksl-Harlesh Hp">Kassel-Harleshausen</Station>  
+
+	  <!-- von Göttingen -->
+	  <Station AnnounceExit="right">Kragenhof</Station>	  
+	  <Station AnnounceExit="right" FplNameText="F-Ihringshausen">Ihringshausen</Station>
+	  <Station AnnounceExit="right" FplNameText="Abzw V-Niedervellmar Hp">Niedervellmar</Station>
+	  
+	  <Station AnnounceExit="none" AdditionalAnnounce="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\ZusiDisplay\RegioFern.ogg" AdditionalAnnounceTerminus="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Endstation.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Wertgegenstaende.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg">Kassel Hbf</Station>
+	  <Station AnnounceExit="none" AdditionalAnnounce="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg" AdditionalAnnounceTerminus="..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Endstation.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\Wertgegenstaende.ogg|..\..\Infrastrukturdaten\ZusiDisplay\Rahmenansagen\RegioFern.ogg">Kassel-Wilhelmshöhe</Station>
+    </Track>	
+  </Line>
+</Railway>

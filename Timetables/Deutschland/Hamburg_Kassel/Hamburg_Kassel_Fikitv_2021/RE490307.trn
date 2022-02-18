@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="RE" Nummer="490307" Zuglauf="Celle - Göttingen" BRAngabe="147 + Stwg" Prio="2250" BremsstellungZug="5" APBeschl="1" ReisendenDichte="0.6" FahrplanGruppe="5. RE2 Götttingen - Celle" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Celle S4" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2021-07-21 06:57:00" Abf="2021-07-21 07:09:00" Betrst="Celle">
+<FahrplanSignalEintrag FahrplanSignal="S4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:10:00" Betrst="Celle Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P24"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:15:00" Betrst="Ehlershausen">
+<FahrplanSignalEintrag FahrplanSignal="7P702"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:17:00" Betrst="Otze Hp"/>
+<FahrplanEintrag Betrst="Burgdorf">
+<FahrplanSignalEintrag FahrplanSignal="S642"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:20:30" Abf="2021-07-21 07:21:00" Betrst="Burgdorf">
+<FahrplanSignalEintrag FahrplanSignal="P602"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:24:00" Betrst="Aligse Hp"/>
+<FahrplanEintrag Abf="2021-07-21 07:25:00" Betrst="Lehrte Nord">
+<FahrplanSignalEintrag FahrplanSignal="R221"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="T151"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:26:00" Abf="2021-07-21 07:28:00" Betrst="Lehrte Pbf">
+<FahrplanSignalEintrag FahrplanSignal="X011"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="Q730"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="Y860"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="N859"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sehnde" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="A251"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:36:00" Betrst="Sehnde">
+<FahrplanSignalEintrag FahrplanSignal="N202"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:40:00" Betrst="Algermissen">
+<FahrplanSignalEintrag FahrplanSignal="N101"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:42:00" Betrst="Harsum">
+<FahrplanSignalEintrag FahrplanSignal="N001"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:46:00" Abf="2021-07-21 07:47:00" Betrst="Hildesheim Hbf">
+<FahrplanSignalEintrag FahrplanSignal="S6"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:48:00" Betrst="Hildesheim Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P31"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:51:00" Betrst="Bk Himmelsthür">
+<FahrplanSignalEintrag FahrplanSignal="A"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:52:00" Betrst="Abzw Himmelsthür">
+<FahrplanSignalEintrag FahrplanSignal="335"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:54:00" Betrst="Abzw Sorsum">
+<FahrplanSignalEintrag FahrplanSignal="177"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:57:00" Betrst="Üst Diekholzen">
+<FahrplanSignalEintrag FahrplanSignal="205"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Almstedt" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="A315"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:00:00" Betrst="Almstedt">
+<FahrplanSignalEintrag FahrplanSignal="N301"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:02:00" Betrst="Üst Netze">
+<FahrplanSignalEintrag FahrplanSignal="401"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:05:00" Betrst="Üst Gehrenrode">
+<FahrplanSignalEintrag FahrplanSignal="407"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Orxhausen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="A515"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:08:00" Betrst="Orxhausen">
+<FahrplanSignalEintrag FahrplanSignal="N501"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:11:00" Betrst="Üst Ahlshausen">
+<FahrplanSignalEintrag FahrplanSignal="521"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:13:00" Betrst="Abzw Edesheim">
+<FahrplanSignalEintrag FahrplanSignal="107"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 109">
+<FahrplanSignalEintrag FahrplanSignal="109"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:16:00" Betrst="Üst Sudheim">
+<FahrplanSignalEintrag FahrplanSignal="111"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Nörten-Hardenbg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="B"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:18:00" Betrst="Nörten-Hardenbg">
+<FahrplanSignalEintrag FahrplanSignal="N054"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 207">
+<FahrplanSignalEintrag FahrplanSignal="207"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Göttingen Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="C115"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 08:23:00" Abf="2021-07-21 09:12:00" Betrst="Bft Göttingen Pbf">
+<FahrplanSignalEintrag FahrplanSignal="N8"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="6" IDNeben="1" DotraModus="1" SASchaltung="2" NVRNummer="91 80 6147 010-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektroloks\TRAXX_AC3\TRAXX_AC3.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1" DotraModus="1" Gedreht="1" NVRNummer="50 80 86-81 050-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpbzfa_766.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

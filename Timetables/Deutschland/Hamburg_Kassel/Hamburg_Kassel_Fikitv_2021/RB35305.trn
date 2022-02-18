@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="RB" Nummer="35305" Zuglauf="Hannover Hbf - Celle - Hildesheim" Prio="2000" BremsstellungZug="5" APBeschl="1" ReisendenDichte="0.6" FahrplanGruppe="6. RB2 Hildesheim - Celle ( - Uelzen)" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Celle Gbf B" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35305.timetable.xml"/>
+<FahrplanEintrag Ank="2021-07-21 06:08:00" Abf="2021-07-21 06:08:00" Betrst="Celle Gbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="B"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:11:00" Betrst="Celle Gbf">
+<FahrplanSignalEintrag FahrplanSignal="R23"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 06:12:00" Abf="2021-07-21 06:35:00" Betrst="Celle" FzgVerbandAktion="2" FzgVerbandWendeSignalabstand="40">
+<FahrplanSignalEintrag FahrplanSignal="N2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:37:00" Betrst="Celle Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P21"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Ehlershausen">
+<FahrplanSignalEintrag FahrplanSignal="7P702"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 06:43:30" Abf="2021-07-21 06:44:00" Betrst="Ehlershausen"/>
+<FahrplanEintrag Ank="2021-07-21 06:46:30" Abf="2021-07-21 06:47:00" Betrst="Otze Hp"/>
+<FahrplanEintrag Betrst="Burgdorf">
+<FahrplanSignalEintrag FahrplanSignal="S642"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 06:50:00" Abf="2021-07-21 06:51:00" Betrst="Burgdorf">
+<FahrplanSignalEintrag FahrplanSignal="P602"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 06:54:30" Abf="2021-07-21 06:55:00" Betrst="Aligse Hp"/>
+<FahrplanEintrag Abf="2021-07-21 06:56:00" Betrst="Lehrte Nord">
+<FahrplanSignalEintrag FahrplanSignal="R221"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="T151"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 06:57:00" Abf="2021-07-21 07:01:00" Betrst="Lehrte Pbf">
+<FahrplanSignalEintrag FahrplanSignal="X014"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="Q730"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="Y860"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="N859"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sehnde" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="A251"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:09:30" Abf="2021-07-21 07:10:00" Betrst="Sehnde">
+<FahrplanSignalEintrag FahrplanSignal="N202"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:14:30" Abf="2021-07-21 07:15:00" Betrst="Algermissen">
+<FahrplanSignalEintrag FahrplanSignal="N101"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:17:30" Abf="2021-07-21 07:18:00" Betrst="Harsum">
+<FahrplanSignalEintrag FahrplanSignal="N001"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:22:00" Abf="2021-07-21 07:25:00" Betrst="Hildesheim Hbf">
+<FahrplanSignalEintrag FahrplanSignal="S7"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0442 230-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="94 80 0443 748-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Mittellaufwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="94 80 0443 257-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Mittelantriebswagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="2" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="94 80 0442 775-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0442 224-2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="94 80 0443 777-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Mittellaufwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="94 80 0443 227-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Mittelantriebswagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="2" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="94 80 0442 747-2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

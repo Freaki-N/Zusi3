@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="RB" Nummer="35207" Zuglauf="Lüneburg - Hannover Hbf" Prio="2250" BremsstellungZug="5" MBrh="1.855" APBeschl="1" ReisendenDichte="0.6" FahrplanGruppe="4. RB1 Hannover Hbf - Celle - (Lüneburg)" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Lüneburg S203" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35207.timetable.xml"/>
+<FahrplanEintrag Ank="2021-07-21 07:35:00" Abf="2021-07-21 07:38:00" Betrst="Lüneburg">
+<FahrplanSignalEintrag FahrplanSignal="S203"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:39:00" Betrst="Lüneburg Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P101"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:41:00" Betrst="Deutsch Evern">
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:45:30" Abf="2021-07-21 07:46:00" Betrst="Bienenbüttel">
+<FahrplanSignalEintrag FahrplanSignal="P3"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bad Bevensen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:51:30" Abf="2021-07-21 07:52:00" Betrst="Bad Bevensen">
+<FahrplanSignalEintrag FahrplanSignal="S2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bad Bevensen">
+<FahrplanSignalEintrag FahrplanSignal="P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Uelzen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="G"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:58:00" Abf="2021-07-21 08:04:00" Betrst="Uelzen">
+<FahrplanSignalEintrag FahrplanSignal="S103"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:05:00" Betrst="Uelzen Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 71212">
+<FahrplanSignalEintrag FahrplanSignal="71212"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:07:00" Betrst="Klein Süstedt">
+<FahrplanSignalEintrag FahrplanSignal="71P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 72208">
+<FahrplanSignalEintrag FahrplanSignal="72208"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 08:10:30" Abf="2021-07-21 08:11:00" Betrst="Suderburg">
+<FahrplanSignalEintrag FahrplanSignal="72P3"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 73216">
+<FahrplanSignalEintrag FahrplanSignal="73216"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 08:18:30" Abf="2021-07-21 08:19:00" Betrst="Unterlüß">
+<FahrplanSignalEintrag FahrplanSignal="73P6"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 73202">
+<FahrplanSignalEintrag FahrplanSignal="73202"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 08:24:30" Abf="2021-07-21 08:25:00" Betrst="Eschede">
+<FahrplanSignalEintrag FahrplanSignal="74P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 75212">
+<FahrplanSignalEintrag FahrplanSignal="75212"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:29:00" Betrst="Garßen">
+<FahrplanSignalEintrag FahrplanSignal="75P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 75202">
+<FahrplanSignalEintrag FahrplanSignal="75202"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Celle">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 08:33:00" Abf="2021-07-21 08:39:00" Betrst="Celle">
+<FahrplanSignalEintrag FahrplanSignal="S3"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:40:00" Betrst="Celle Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P23"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:43:00" Betrst="Sbk 76202">
+<FahrplanSignalEintrag FahrplanSignal="76202"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="3" IDNeben="2" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0442 747-2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0443 278-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Mittelantriebswagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0443 715-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Mittellaufwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="94 80 0442 247-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="2" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0442 751-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0443 286-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Mittelantriebswagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="94 80 0443 771-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Mittellaufwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="94 80 0442 212-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\Talent2\Talent2-Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

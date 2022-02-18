@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Buchfahrplan" Version="A.4" MinVersion="A.0"/>
+<Buchfahrplan Gattung="RE" Nummer="4804" Zuglauf="Stendal - Uelzen - Stendal" BR="112" Masse="317000" spMax="44.4444" Bremsh="1.9527" Laenge="124.31" LaengeLoks="16.64" kmStart="102.6586" BremsstellungZug="5">
+<Datei_fpn Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<Datei_trn Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4804.trn" NurInfo="1"/>
+<UTM UTM_WE="565" UTM_NS="5786" UTM_Zone="32" UTM_Zone2="U"/>
+<FplZeile FplRglGgl="1" FplLaufweg="36.7704" FahrstrStrecke="760b">
+<FplvMax vMax="44.4445"/>
+<FplName FplNameText="- ZF GSM-R -"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="1191.8722" FahrstrStrecke="760b">
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="103.8058"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="1440.7277" FahrstrStrecke="760b">
+<FplIcon FplIconNr="22"/>
+<Fplkm km="104.0544"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="1440.7277" FahrstrStrecke="760b">
+<FplIcon FplIconNr="22"/>
+<Fplkm km="104.0544"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="1486.9216" FahrstrStrecke="760b">
+<FplName FplNameText="Üst Veerßen"/>
+<Fplkm km="104.1368"/>
+<FplAnk Ank="2021-07-21 05:58:00" FplEintrag="1"/>
+<FplAbf Abf="2021-07-21 05:58:00"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="1486.9216" FahrstrStrecke="760b">
+<FplName FplNameText="Üst Veerßen"/>
+<Fplkm km="104.1368"/>
+<FplAnk Ank="2021-07-21 05:58:00" FplEintrag="1"/>
+<FplAbf Abf="2021-07-21 05:58:00"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="1493.8698" FahrstrStrecke="760b">
+<Fplkm km="104.1404"/>
+<FplvMax vMax="27.7778"/>
+<Fplkm km="104.1415"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="1567.9595" FahrstrStrecke="760b">
+<Fplkm km="104.3"/>
+<FplIcon FplIconNr="17"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="1589.1459" FahrstrStrecke="760b">
+<Fplkm km="104.3"/>
+<FplIcon FplIconNr="17"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="1801.787" FahrstrStrecke="760b">
+<Fplkm km="104.9315" FplSprung="1" FplkmNeu="104.6914"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="1925.0294" FahrstrStrecke="760b">
+<FplvMax vMax="27.7778"/>
+<Fplkm km="104.5875"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="2727.3464" FahrstrStrecke="760b">
+<FplSignaltyp FplSignaltypNr="7"/>
+<Fplkm km="105.6142"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="2727.52" FahrstrStrecke="760b">
+<FplName FplNameText="Esig Uelzen"/>
+<Fplkm km="105.3743"/>
+</FplZeile>
+<FplZeile FplLaufweg="3840.99">
+<FplName FplNameText="Uelzen Gbf"/>
+<Fplkm km="106.7303"/>
+</FplZeile>
+<FplZeile FplLaufweg="3927.01">
+<FplIcon FplIconNr="7"/>
+<FplName FplNameText="Avsig, Zsig"/>
+<Fplkm km="106.8178"/>
+</FplZeile>
+<FplZeile FplLaufweg="4265.3896">
+<Fplkm km="107.1584"/>
+</FplZeile>
+<FplZeile FplLaufweg="4352.3203">
+<Fplkm km="107.2458" FplSprung="1" FplkmNeu="-0.2522"/>
+</FplZeile>
+<FplZeile FplLaufweg="4453.2485">
+<Fplkm km="-0.1512"/>
+<FplvMax vMax="22.2222"/>
+<Fplkm km="-0.1723"/>
+</FplZeile>
+<FplZeile FplLaufweg="4607.582">
+<FplName FplNameText="Uelzen"/>
+<Fplkm km="0.0031"/>
+</FplZeile>
+<FplZeile FplLaufweg="4641.7007">
+<Fplkm km="0.3"/>
+<FplSignaltyp FplSignaltypNr="9"/>
+</FplZeile>
+<FplZeile FplLaufweg="4666.4917">
+<FplvMax vMax="27.7778"/>
+<Fplkm km="0.0124" FplSprung="1" FplkmNeu="-0.176"/>
+</FplZeile>
+<FplZeile FplLaufweg="4761.6973">
+<Fplkm km="-0.2713" FplSprung="1" FplkmNeu="107.2267"/>
+</FplZeile>
+<FplZeile FplLaufweg="5286.9819">
+<FplName FplNameText="Uelzen Gbf"/>
+<Fplkm km="106.6973"/>
+<FplAbf Abf="2021-07-21 06:01:00"/>
+</FplZeile>
+<FplZeile FplLaufweg="5430.2847">
+<Fplkm km="106.1"/>
+<FplSignaltyp FplSignaltypNr="9"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="5455.1367" FahrstrStrecke="760a">
+<Fplkm km="106.5293" FplSprung="1" FplkmNeu="95.0776"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="5476.8149" FahrstrStrecke="760a">
+<FplvMax vMax="44.4444"/>
+<Fplkm km="95.0806"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="5841.209" FahrstrStrecke="760a">
+<FplvMax vMax="27.7778"/>
+<Fplkm km="94.7791"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="5848.5825" FahrstrStrecke="760a">
+<Fplkm km="94.7401" FplSprung="1" FplkmNeu="105.6599"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="5918.563" FahrstrStrecke="760a">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="105.59"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="6056.4121" FahrstrStrecke="760a">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="105.9244"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="6887.0781" FahrstrStrecke="760a">
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="104.6246"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="7356.0474" FahrstrStrecke="760a">
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="104.6288"/>
+<FplRichtungswechsel/>
+</FplZeile>
+</Buchfahrplan>
+</Zusi>

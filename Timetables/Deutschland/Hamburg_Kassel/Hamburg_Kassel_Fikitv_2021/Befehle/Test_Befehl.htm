@@ -1,0 +1,1139 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
+<meta name="GENERATOR" content="zusi">
+<meta http-equiv="Version" content="$Header$">
+<meta http-equiv="X-UA-Compatible" content="IE=9">
+<title>Befehlsvordruck 2015</title>
+<style type="text/css">
+p {
+	margin: 0;
+}
+.durchgestrichen { /* IE8 unterstützt kein SVG -> gerades Durchstreichen mittels PNG-Datei */
+	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAMAAAAMCGV4AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRFAAD/////e9yZLAAAAAJ0Uk5T/wDltzBKAAAAFklEQVR42mJgRAUM1OaTCmjsHoAAAwBVUAC16xuO+QAAAABJRU5ErkJggg==");
+	background-repeat: repeat-x;
+	background-position: 0px 1px;
+}
+html:not([ie8andbelow]) .durchgestrichen { /* Schräges Durchstreichen mittels SVG-Datei für IE >= 9, http://stackoverflow.com/a/20231370/1083696 */
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' version='1.1' preserveAspectRatio='none' viewBox='0 0 1000 10'%3E %3Cpath d='M0 8 L1000 2' stroke='MediumBlue' stroke-width='1' /%3E%3C/svg%3E");
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size: 100% 100%, auto;
+}
+/* .feld-durchstreichbar: Damit die Durchstreichungs-Linie des Druck-Stylesheets auch bei Feldern durchgängig ist, darf kein margin vorhanden sein. Außerdem darf die Feld-Schriftart erst für ein (im durchgestrichenen Fall leeres) inneres Element (Klasse feldinhalt) definiert werden, da sonst die Liniendicke und -position der Schriftart Comic Sans MS angepasst würden. */
+.feld, .feld-durchstreichbar {
+	display: inline-block;
+	text-align: center;
+	text-decoration: inherit;
+	color: MediumBlue;
+}
+.feld, .feld-durchstreichbar .feldinhalt {
+	font-family: Comic Sans MS;
+	font-weight: bold;
+}
+.feld {
+	margin: 0 5px 0 5px;
+}
+.unterstrichen {
+	border-bottom: 2px dotted black;
+}
+.umrandet {
+	border: thin solid black;
+}
+hr {
+	height: 1px;
+	background-color: #000;
+	border: 0;
+}
+table {
+	border-collapse: collapse;
+}
+</style>
+<style type="text/css" media="print">
+/* Durchstreichungen sollen unabhängig von der Einstellung "Hintergrund drucken" gedruckt werden, ausserdem druckt IE SVG-Hintergründe nicht korrekt -> nutze CSS-Durchstreichung. Nutze inneres Element (Klasse durchstr-helfer), um der Durchstreichung eine andere Farbe zu geben als dem Text. */
+.durchgestrichen {
+	background: none;
+	text-decoration: line-through;
+	color: MediumBlue;
+}
+html:not([ie8andbelow]) .durchgestrichen {
+	background: none;
+	text-decoration: line-through;
+	color: MediumBlue;
+}
+.durchgestrichen .feld-durchstreichbar {
+	text-decoration: line-through;
+}
+.durchgestrichen .durchstr-helfer {
+	color: black;
+}
+</style>
+</head>
+
+<body bgcolor="#FFFFFF">
+<font face="Arial">
+
+<div align="center">
+	<strong>Vordruck <span class="feld unterstrichen">&nbsp;XNr1&nbsp;</span> von <span class="feld unterstrichen">&nbsp;XNrS&nbsp;</span></strong>
+</div>
+	
+<table class="umrandet" width="100%" cellspacing="0">
+	<tbody><tr>
+		<td rowspan="2"><strong>Befehle&nbsp;<br> 1 - 14</strong></td> <td colspan="3" width="54%"><strong>Triebfahrzeugführer <zusi id="DZug"><span class="durchstr-helfer">Zug</span></zusi> - <zusi id="DSperrfahrt"><span class="durchstr-helfer">Sperrfahrt</span></zusi> - <zusi id="DSperrfahrtKl"><span class="durchstr-helfer">Sperrfahrt&nbsp;Kl</span></zusi> - <br> <zusi id="DSchiebe"><span class="durchstr-helfer">Schiebetriebfahrzeug für Zug</span></zusi> - <zusi id="DRangierfahrt"><span class="durchstr-helfer">Rangierfahrt</span></zusi></strong></td> <td><span class="feld unterstrichen">&nbsp;&nbsp;XZug&nbsp;&nbsp;</span></td>
+	</tr>
+	<tr>
+		<td>Standort:</td>
+		<td align="center"><span class="feld unterstrichen">&nbsp;&nbsp;Xkm&nbsp;XSignal&nbsp;XWeiche&nbsp;&nbsp;</span><br><small>(<zusi id="Dkm"><span class="durchstr-helfer">km</span></zusi>/<zusi id="DSignal"><span class="durchstr-helfer">Signal</span></zusi>/<zusi id="DWeiche"><span class="durchstr-helfer">Weiche</span></zusi>)</small></td>
+		<td>in <zusi id="DRgl"><span class="durchstr-helfer">Rgl</span></zusi> / <zusi id="DGgl"><span class="durchstr-helfer">Ggl</span></zusi> / <zusi id="DGl"><span class="durchstr-helfer">Gl</span></zusi> </td>
+		<td align="center"><span class="feld unterstrichen">&nbsp;&nbsp;XGleis&nbsp;&nbsp;</span><br><small>(Gl-Nr., Betriebsstelle / von Betriebsstelle nach Betriebsstelle)</small></td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<!-- BEFEHL 1 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld"></span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>1</strong>&nbsp;</p></td>
+		<td rowspan="2" class="umrandet"><strong>Sie dürfen</strong> - <zusi id="D1einfahren"><span class="durchstr-helfer">in den / im</span></zusi> <zusi id="D1Bf"><span class="durchstr-helfer">Bf / Bft</span></zusi> - <zusi id="D1Abzw"><span class="durchstr-helfer">auf der Abzw/Üst</span></zusi><br><span class="feld unterstrichen">&nbsp;              &nbsp;&nbsp;</span> <zusi id="D1weiterfahren"><span class="durchstr-helfer">- weiterfahren -</span></zusi><zusi id="D1einfahren"><span class="durchstr-helfer"> einfahren -</span></zusi></td>
+	</tr>
+	<tr>
+		<td></td><td td="">
+	</td></tr>
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld"></span></p></td>
+		<td class="umrandet" width="5%"><p align="center"><strong>1.1</strong></p></td>
+		<td class="umrandet">Sie müssen bis zum Erkennen der Stellung des nächsten Hauptsignals mit höchstens 40 km/h fahren.</td>
+	</tr>
+</tbody></table>
+<br>
+
+<!-- BEFEHL 2 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld"></span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>2</strong>&nbsp;</p></td>
+		<td colspan="3" class="umrandet"><strong>Sie dürfen <zusi id="D2halt"><span class="durchstr-helfer">- vorbeifahren </span></zusi>-<zusi id="D2weiter"><span class="durchstr-helfer"> weiterfahren </span></zusi>- <zusi id="D2vorbei"><span class="durchstr-helfer">nach Vorbeifahrt </span></zusi> / <zusi id="D2TR"><span class="durchstr-helfer"> TR </span></zusi> - am / an / in</strong></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td class="umrandet"><p align="center"><strong>Signal usw.</strong></p></td>
+		<td class="umrandet"><p align="center"><strong>Bezeichnung / km</strong></p></td>
+		<td class="umrandet"><p align="center"><strong>Bf, Bft, Abzw, Üst, Dkst</strong></p></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td class="umrandet" align="center"><p align="center"><span class="feld">X2Sig1</span></p></td>
+		<td class="umrandet" align="center"><p align="center"><span class="feld">X2Bez1</span></p></td>
+		<td class="umrandet" align="center"><p align="center"><span class="feld">X2Bf1</span></p></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td class="umrandet" align="center"><p align="center"><span class="feld">X2Sig2</span></p></td>
+		<td class="umrandet" align="center"><p align="center"><span class="feld">X2Bez2</span></p></td>
+		<td class="umrandet" align="center"><p align="center"><span class="feld">X2Bf2</span></p></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td class="umrandet" align="center"><p align="center"><span class="feld">X2Sig3</span></p></td>
+		<td class="umrandet" align="center"><p align="center"><span class="feld">X2Bez3</span></p></td>
+		<td class="umrandet" align="center"><p align="center"><span class="feld">X2Bf3</span></p></td>
+	</tr>
+
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld"></span></p></td>
+		<td class="umrandet" width="5%"><p align="center"><strong>2.1</strong></p></td>
+		<td colspan="3" class="umrandet">Sie müssen bis zum Erkennen der Stellung des nächsten Hauptsignals mit höchstens 40 km/h fahren.</td>
+	</tr>
+</tbody></table>
+
+<br>
+
+
+<!-- BEFEHL 3 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X3K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>3</strong>&nbsp;</p></td>
+		<td rowspan="2" class="umrandet"><strong>Sie dürfen aus dem Bf/Bft <span class="feld unterstrichen">&nbsp;&nbsp;&nbsp;X3Bf&nbsp;&nbsp;</span> ausfahren.</strong></td>
+	</tr>
+	<tr>
+		<td></td><td td="">
+	</td></tr>
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X3.1K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center"><strong>3.1</strong></p></td>
+		<td class="umrandet">Sie müssen bis zum Erkennen der Stellung des nächsten Hauptsignals mit höchstens 40 km/h fahren.</td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<!-- BEFEHL 4 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X4K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>4</strong>&nbsp;</p></td>
+		<td class="umrandet"><strong>Sie fahren auf dem Gegengleis von <span class="feld unterstrichen">&nbsp;&nbsp;X4Bfvon&nbsp;&nbsp;</span> bis <span class="feld unterstrichen">&nbsp;&nbsp;X4Bfbis&nbsp;&nbsp;</span></strong></td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<!-- BEFEHL 5 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X5K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>5</strong>&nbsp;</p></td>
+		<td rowspan="2" class="umrandet"><strong>Sie</strong> -<zusi id="D5fahren"><span class="durchstr-helfer"> fahren </span></zusi> / <zusi id="D5nachschieben"><span class="durchstr-helfer">schieben nach </span></zusi>- <strong>von</strong> <span class="feld unterstrichen">&nbsp;&nbsp;X5von&nbsp;&nbsp;</span><br>
+		 <strong>in Richtung <span class="feld unterstrichen">&nbsp;&nbsp;X5Richtung&nbsp;&nbsp;</span> bis <span class="feld unterstrichen">&nbsp;&nbsp;X5bis&nbsp;&nbsp;</span> und kehren zurück.</strong></td>
+	</tr>
+	<tr>
+		<td></td><td td="">
+	</td></tr>
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X5.1K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center"><strong>5.1</strong></p></td>
+		<td class="umrandet">Hinfahrt auf Regelgleis, Rückfahrt auf Gegengleis</td>
+	</tr>
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X5.2K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center"><strong>5.2</strong></p></td>
+		<td class="umrandet">Hinfahrt auf Gegengleis, Rückfahrt auf Regelgleis</td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<!-- BEFEHL 6 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X6K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>6</strong>&nbsp;</p></td>
+		<td rowspan="2" class="umrandet"><strong>Sie dürfen vom Gegengleis</strong><br>
+			ab km  <span class="feld unterstrichen">&nbsp;&nbsp;X6km1&nbsp;&nbsp;</span>auf der Abzw/Üst <span class="feld unterstrichen">&nbsp;&nbsp;X6Bf1&nbsp;&nbsp;</span><strong>weiterfahren,</strong><br>
+			ab km  <span class="feld unterstrichen">&nbsp;&nbsp;X6km2&nbsp;&nbsp;</span>auf der Abzw/Üst <span class="feld unterstrichen">&nbsp;&nbsp;X6Bf2&nbsp;&nbsp;</span><strong>weiterfahren,</strong><br>
+			ab km  <span class="feld unterstrichen">&nbsp;&nbsp;X6km3&nbsp;&nbsp;</span>in den Bf/Bft <span class="feld unterstrichen">&nbsp;&nbsp;X6Bf3&nbsp;&nbsp;</span><strong>ein- und ausfahren,</strong><br> 
+			ab km  <span class="feld unterstrichen">&nbsp;&nbsp;X6km4&nbsp;&nbsp;</span>in den Bf/Bft <span class="feld unterstrichen">&nbsp;&nbsp;X6Bf4&nbsp;&nbsp;</span><strong>einfahren.</strong></td>
+	</tr>
+	<tr>
+		<td></td><td></td>
+	</tr>
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X6.1K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center"><strong>6.1</strong></p></td>
+		<td class="umrandet">Sie müssen bis zum Erkennen der Stellung des nächsten Hauptsignals mit höchstens 40 km/h fahren.</td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<!-- BEFEHL 7 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X7K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>7</strong>&nbsp;</p></td>
+		<td class="umrandet"><strong>Sie müssen auf dem Gegengleis</strong> - <zusi id="D7Ne1"><span class="durchstr-helfer">vor Signal Ne 1</span></zusi> / <zusi id="D7Hoehe"><span class="durchstr-helfer">in Höhe des</span></zusi> <zusi id="D7Bksig"><span class="durchstr-helfer">Bksig</span></zusi>/<zusi id="D7Esig"><span class="durchstr-helfer">Esig</span></zusi> <span class="feld unterstrichen">&nbsp;&nbsp;X7Sig&nbsp;&nbsp;</span> <br> 
+			<strong>in km</strong> <span class="feld unterstrichen">&nbsp;&nbsp;X7km&nbsp;&nbsp;</span> <zusi id="D7Bf"><span class="durchstr-helfer">des Bf/Bft</span></zusi> / <zusi id="D7Abzw"><span class="durchstr-helfer">der Abzw/Üst</span></zusi> <span class="feld unterstrichen">&nbsp;&nbsp;X7Bf&nbsp;&nbsp;</span> <strong>halten.</strong></td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<!-- BEFEHL 8 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X8K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>8</strong>&nbsp;</p></td>
+		<td class="umrandet"><strong>Sie müssen</strong> - zwischen Zmst <span class="feld unterstrichen">&nbsp;&nbsp;X8Bf1&nbsp;&nbsp;</span> und Zmst <span class="feld unterstrichen">&nbsp;&nbsp;X8Bf2&nbsp;&nbsp;</span> <br>
+			- <zusi id="D8Bf"><span class="durchstr-helfer">im Bf/Bft</span></zusi> / <zusi id="D8Abzw"><span class="durchstr-helfer">auf Abzw/Üst</span></zusi> <span class="feld unterstrichen">&nbsp;&nbsp;X8Bf3&nbsp;&nbsp;</span> - <strong>halten vor BÜ</strong> in km <span class="feld unterstrichen">&nbsp;&nbsp;X8km1&nbsp;&nbsp;</span> <br> 
+			/ km <span class="feld unterstrichen">&nbsp;&nbsp;X8km2&nbsp;&nbsp;</span>km <span class="feld unterstrichen">&nbsp;&nbsp;X8km3&nbsp;&nbsp;</span> / km <span class="feld unterstrichen">&nbsp;&nbsp;X8km4&nbsp;&nbsp;</span> / km <span class="feld unterstrichen">&nbsp;&nbsp;X8km5&nbsp;&nbsp;</span> / km <span class="feld unterstrichen">&nbsp;&nbsp;X8km6&nbsp;&nbsp;</span> <br>
+			<strong>Sie dürfen weiterfahren, wenn BÜ gesichert ist.</strong></td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<!-- BEFEHL 9 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X9K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>9</strong>&nbsp;</p></td>
+		<td class="umrandet"><strong>Schalten Sie die LZB von Zmst <span class="feld unterstrichen">&nbsp;&nbsp;X9Zmst1&nbsp;&nbsp;</span> bis Zmst <span class="feld unterstrichen">&nbsp;&nbsp;X9Zmst2&nbsp;&nbsp;</span> ab.</strong></td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<!-- BEFEHL 10 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X10K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>10</strong>&nbsp;</p></td>
+		<td rowspan="2" class="umrandet"><zusi id="D10signalgef"><span class="durchstr-helfer"><strong>Fahren Sie signalgeführt weiter</strong></span></zusi><strong> / <zusi id="D10Level"><span class="durchstr-helfer">Wählen Sie ETCS-Level</span></zusi>/ <zusi id="D10Betriebsart"><span class="durchstr-helfer">ETCS-Betriebsart</span></zusi> <span class="feld unterstrichen">&nbsp;&nbsp;X10Level&nbsp;&nbsp;</span></strong></td>
+	</tr>
+	<tr>
+		<td></td><td td="">
+	</td></tr>
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X10.1K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center"><strong>10.1</strong></p></td>
+		<td class="umrandet">Sie müssen 2000 m mit höchstens 40 km/h fahren.</td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<!-- BEFEHL 11 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X11K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>11</strong>&nbsp;</p></td>
+		<td class="umrandet"><strong>Fahren Sie bis zur Langsamfahrstelle höchstens mit der nach Fahrplan zugelassenen Geschwindigkeit. <br>Beachten Sie niedrigere Geschwindigkeiten gemäß Führerraumanzeige und Langsamfahrsignale.</strong></td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<!-- BEFEHL 12 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X12K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>12</strong>&nbsp;</p></td>
+		<td colspan="7" class="umrandet"><strong>Sie müssen folgende Geschwindigkeitsbeschränkungen beachten:</strong></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td class="umrandet"><p align="center"><strong>km/h</strong></p></td>
+		<td class="umrandet"><p align="center"><strong>auf <br> Sicht</strong></p></td>
+		<td class="umrandet"><p align="center"><strong>im / auf / zwischen <br> Bf / Bft / Abzw / Üst</strong></p></td>
+		<td class="umrandet"><p align="center"><strong>und <br> Bf / Bft / Abzw / Üst</strong></p></td>
+		<td class="umrandet"><p align="center"><strong>in / von <br> km / Sig</strong></p></td>
+		<td class="umrandet"><p align="center"><strong>bis <br> km / Sig</strong></p></td>
+		<td class="umrandet"><p align="center"><strong>Grund <br> Nr.</strong></p></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td class="umrandet"><p align="center"><span class="feld">X12kmh1</span></p></td>
+		<td class="umrandet"><p align="center"><zusi id="D12aufSicht1"><span class="durchstr-helfer">auf <br> Sicht</span></zusi></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12Bf1</span></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12BfUnd1</span></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12in1</span></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12bis1</span></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12Grund1</span></p></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td class="umrandet"><p align="center"><span class="feld">X12kmh2</span></p></td>
+		<td class="umrandet"><p align="center"><zusi id="D12aufSicht2"><span class="durchstr-helfer">auf <br> Sicht</span></zusi></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12Bf2</span></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12BfUnd2</span></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12in2</span></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12bis2</span></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12Grund2</span></p></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td class="umrandet"><p align="center"><span class="feld">X12kmh3</span></p></td>
+		<td class="umrandet"><p align="center"><zusi id="D12aufSicht3"><span class="durchstr-helfer">auf <br> Sicht</span></zusi></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12Bf3</span></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12BfUnd3</span></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12in3</span></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12bis3</span></p></td>
+		<td class="umrandet"><p align="center"><span class="feld">X12Grund3</span></p></td>
+	</tr>
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X12.1K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>12.1</strong>&nbsp;</p></td>
+		<td colspan="7" class="umrandet">Stellen Sie fest, ob das Gleis befahrbar ist. Melden Sie das Ergebnis an <span class="feld unterstrichen">&nbsp;X12.1an&nbsp;</span></td>
+	</tr>
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X12.2K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>12.2</strong>&nbsp;</p></td>
+		<td colspan="7" class="umrandet">Geben Sie bei Annäherung an den BÜ / RÜ Signal Zp 1. Räumen Sie den BÜ /RÜ schnellstens,<br>wenn erstes Fahrzeug Straßenmitte / RÜ-Mitte erreicht hat.</td>
+	</tr>
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X12.3K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>12.3</strong>&nbsp;</p></td>
+		<td colspan="7" class="umrandet">Schauen Sie nach Oberleitungsschäden. Melden Sie das Ergebnis an <span class="feld unterstrichen">&nbsp;X12.3an&nbsp;</span></td>
+	</tr>
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X12.4K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>12.4</strong>&nbsp;</p></td>
+                <td colspan="7" class="umrandet">PZB-Einrichtung - <zusi id="D12.4sig"><span class="durchstr-helfer">am &nbsp;<span class="feld-durchstreichbar unterstrichen">&nbsp;&nbsp;<span class="feldinhalt">X12.4Sig1</span>&nbsp;&nbsp;</span>sig&nbsp;<span class="feld-durchstreichbar unterstrichen">&nbsp;&nbsp;<span class="feldinhalt">X12.4Sig2</span>&nbsp;&nbsp;</span>&nbsp;</span>&nbsp;</zusi>-<zusi id="D12.4km"><span class="durchstr-helfer"> in km &nbsp;<span class="feld-durchstreichbar unterstrichen">&nbsp;&nbsp;<span class="feldinhalt">X12.4km</span>&nbsp;&nbsp;</span>&nbsp;</span></zusi>-<zusi id="D12.4wirksam"><span class="durchstr-helfer">ständig wirksam</span></zusi>/<zusi id="D12.4unwirksam"><span class="durchstr-helfer">unwirksam</span></zusi></td>
+	</tr>
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X12.5K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>12.5</strong>&nbsp;</p></td>
+		<td colspan="7" class="umrandet">Warnen Sie Personen am und im Gleis durch Signal Zp 1. Halten Sie an,<br> wenn Personen das Gleis nicht verlassen.</td>
+	</tr>
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X12.6K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>12.6</strong>&nbsp;</p></td>
+		<td colspan="7" class="umrandet">*) gilt nur, wenn der Zug signalgeführt wird.</td>
+	</tr>
+	<tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X12.7K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>12.7</strong>&nbsp;</p></td>
+		<td colspan="7" class="umrandet">Geben Sie bei Annäherung an den Bahnsteig Signal Zp 1.</td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<!-- BEFEHL 13 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X13K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>13</strong>&nbsp;</p></td>
+		<td class="umrandet"><strong>Sie sind vom Fahren auf Sicht zwischen <span class="feld unterstrichen">&nbsp;&nbsp;X13von&nbsp;&nbsp;</span>und<span class="feld unterstrichen">&nbsp;&nbsp;X13bis&nbsp;&nbsp;</span> entbunden.</strong></td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<!-- BEFEHL 14 -->
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet" width="5%"><p align="center"><span class="feld">X14K</span></p></td>
+		<td class="umrandet" width="5%"><p align="center">&nbsp;<strong>14</strong>&nbsp;</p></td>
+		<td class="umrandet"><span class="feld unterstrichen">X14Z1</span><br><span class="feld unterstrichen">X14Z2</span><br><span class="feld unterstrichen">X14Z3</span><br><span class="feld unterstrichen">X14Z4</span><br></td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<table width="100%" cellspacing="0">
+	<tbody><tr>
+		<td class="umrandet"><strong>Übermittlungscode: <span class="feld unterstrichen">XCode</span></strong></td>
+	</tr>
+</tbody></table>
+
+<br>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td align="center"><span class="feld unterstrichen">&nbsp;&nbsp;&nbsp;&nbsp;XOrt&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+		<td align="center"><span class="feld unterstrichen">&nbsp;&nbsp;&nbsp;&nbsp;XDatum&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+		<td align="center"><span class="feld unterstrichen">&nbsp;&nbsp;&nbsp;&nbsp;XStunden&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+		<td align="center"><span class="feld unterstrichen">&nbsp;&nbsp;&nbsp;&nbsp;XMinuten&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+	</tr>
+	<tr>
+		<td align="center"><font size="2">(Ort)</font></td>
+		<td align="center"><font size="2">(Datum)</font></td>
+		<td align="center"><font size="2">(Uhr)</font></td>
+		<td align="center"><font size="2">(Minuten)</font></td>
+	</tr>
+</tbody></table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td align="center"><span class="feld unterstrichen">&nbsp;&nbsp;&nbsp;&nbsp;XFdl&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+		<td align="center"><span class="feld unterstrichen">&nbsp;&nbsp;&nbsp;&nbsp;XTf&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+	</tr>
+	<tr>
+		<td align="center"><font size="2">(Fahrdienstleiter)</font></td>
+		<td align="center"><font size="2">erhalten (Name, Triebfahrzeugführer)</font></td>
+	</tr>
+	<tr>
+		<td align="center"><span class="feld unterstrichen">&nbsp;&nbsp;&nbsp;&nbsp;XAnm&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+		<td>&nbsp;</td>
+		<td><p align="right"><font size="2">bei fmdl. Übermittlung: </font></p></td>
+		<td>
+			<table class="umrandet" height="20" cellspacing="0">
+				<tbody><tr>
+					<td><p align="center"><font size="2"><span class="feld">XZfK</span></font></p></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td><font size="2">ZF /</font></td>
+		<td>
+			<table class="umrandet" height="20" cellspacing="0">
+				<tbody><tr>
+					<td><p align="center"><font size="2"><span class="feld">XandereK</span></font></p></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td><font size="2">andere </font><span class="feld unterstrichen">&nbsp;&nbsp;Xandere&nbsp;&nbsp;</span></td>
+	</tr>
+</tbody></table>
+
+<zusidef id="X1K">
+<zusidef id="X1.1K">
+<zusidef id="X2K">
+<zusidef id="X2.1K">
+<zusidef id="X3K">
+<zusidef id="X3.1K">
+<zusidef id="X4K">
+<zusidef id="X5K">
+<zusidef id="X5.1K">
+<zusidef id="X5.2K">
+<zusidef id="X6K">
+<zusidef id="X6.1K">
+<zusidef id="X7K">
+<zusidef id="X8K">
+<zusidef id="X9K">
+<zusidef id="X10K">
+<zusidef id="X10.1K">
+<zusidef id="X11K">
+<zusidef id="X12K">
+<zusidef id="X12.1K">
+<zusidef id="X12.2K">
+<zusidef id="X12.3K">
+<zusidef id="X12.4K">
+<zusidef id="X12.5K">
+<zusidef id="X12.6K">
+<zusidef id="X12.7K">
+<zusidef id="X13K">
+<zusidef id="X14K">
+<zusidef id="XNr1">
+<zusidef id="XNrS">
+<zusidef id="XZug">
+<zusidef id="Xkm">
+<zusidef id="XSignal">
+<zusidef id="XWeiche">
+<zusidef id="XGleis">
+<zusidef id="X1Bf">
+<zusidef id="X2Sig1">
+<zusidef id="X2Sig2">
+<zusidef id="X2Sig3">
+<zusidef id="X2Bez1">
+<zusidef id="X2Bez2">
+<zusidef id="X2Bez3">
+<zusidef id="X2Bf1">
+<zusidef id="X2Bf2">
+<zusidef id="X2Bf3">
+<zusidef id="X3Bf">
+<zusidef id="X4Bfvon">
+<zusidef id="X4Bfbis">
+<zusidef id="X5von">
+<zusidef id="X5Richtung">
+<zusidef id="X5bis">
+<zusidef id="X6km1">
+<zusidef id="X6km2">
+<zusidef id="X6km3">
+<zusidef id="X6km4">
+<zusidef id="X6Bf1">
+<zusidef id="X6Bf2">
+<zusidef id="X6Bf3">
+<zusidef id="X6Bf4">
+<zusidef id="X7Sig">
+<zusidef id="X7km">
+<zusidef id="X7Bf">
+<zusidef id="X8Bf1">
+<zusidef id="X8Bf2">
+<zusidef id="X8Bf3">
+<zusidef id="X8km1">
+<zusidef id="X8km2">
+<zusidef id="X8km3">
+<zusidef id="X8km4">
+<zusidef id="X8km5">
+<zusidef id="X8km6">
+<zusidef id="X9Zmst1">
+<zusidef id="X9Zmst2">
+<zusidef id="X10Level">
+<zusidef id="X12kmh1">
+<zusidef id="X12kmh2">
+<zusidef id="X12kmh3">
+<zusidef id="X12Bf1">
+<zusidef id="X12Bf2">
+<zusidef id="X12Bf3">
+<zusidef id="X12BfUnd1">
+<zusidef id="X12BfUnd2">
+<zusidef id="X12BfUnd3">
+<zusidef id="X12in1">
+<zusidef id="X12in2">
+<zusidef id="X12in3">
+<zusidef id="X12bis1">
+<zusidef id="X12bis2">
+<zusidef id="X12bis3">
+<zusidef id="X12Grund1">
+<zusidef id="X12Grund2">
+<zusidef id="X12Grund3">
+<zusidef id="X12.1an">
+<zusidef id="X12.3an">
+<zusidef id="X12.4Sig1">
+<zusidef id="X12.4Sig2">
+<zusidef id="X12.4km">
+<zusidef id="X13von">
+<zusidef id="X13bis">
+<zusidef id="X14Z1">
+<zusidef id="X14Z2">
+<zusidef id="X14Z3">
+<zusidef id="X14Z4">
+<zusidef id="XCode">
+<zusidef id="XOrt">
+<zusidef id="XDatum">
+<zusidef id="XStunden">
+<zusidef id="XMinuten">
+<zusidef id="XFdl">
+<zusidef id="XTf">
+<zusidef id="XAnm">
+<zusidef id="XZfK">
+<zusidef id="XandereK">
+<zusidef id="Xandere">
+
+<zusibefehl typ="1"> 
+<eintrag id="XZug"> 
+<eintrag id="@@@">
+<eintrag id="XSignal">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten">
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DSperrfahrt" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen"> 
+<formatdef id="DSchiebe" cssclass="durchgestrichen">
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="Dkm" cssclass="durchgestrichen">
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DGgl" cssclass="durchgestrichen"> 
+<formatdef id="DGl" cssclass="durchgestrichen">
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="2"> 
+<eintrag id="XZug"> 
+<eintrag id="@@@">
+<eintrag id="XSignal">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten">
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DZug" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen">
+<formatdef id="DSchiebe" cssclass="durchgestrichen"> 
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="Dkm" cssclass="durchgestrichen">
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DGgl" cssclass="durchgestrichen"> 
+<formatdef id="DGl" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="3"> 
+<eintrag id="XZug"> 
+<eintrag id="@@@">
+<eintrag id="XSignal">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten"> 
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DZug" cssclass="durchgestrichen"> 
+<formatdef id="DSperrfahrt" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen">
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="Dkm" cssclass="durchgestrichen">
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DGgl" cssclass="durchgestrichen"> 
+<formatdef id="DGl" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="4"> 
+<eintrag id="XZug"> 
+<eintrag id="Xkm">
+<eintrag id="@@@">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten">
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DSperrfahrt" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen">
+<formatdef id="DSchiebe" cssclass="durchgestrichen">
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="DSignal" cssclass="durchgestrichen">
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DGgl" cssclass="durchgestrichen"> 
+<formatdef id="DGl" cssclass="durchgestrichen">  
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="5"> 
+<eintrag id="XZug"> 
+<eintrag id="Xkm">
+<eintrag id="@@@">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten">
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DZug" cssclass="durchgestrichen">
+<formatdef id="DSchiebe" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen">
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="DSignal" cssclass="durchgestrichen">
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DGgl" cssclass="durchgestrichen"> 
+<formatdef id="DGl" cssclass="durchgestrichen">  
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="6"> 
+<eintrag id="XZug"> 
+<eintrag id="Xkm">
+<eintrag id="@@@">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten"> 
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DZug" cssclass="durchgestrichen"> 
+<formatdef id="DSperrfahrt" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen">
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="DSignal" cssclass="durchgestrichen">
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DGgl" cssclass="durchgestrichen"> 
+<formatdef id="DGl" cssclass="durchgestrichen">  
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="7"> 
+<eintrag id="XZug"> 
+<eintrag id="@@@">
+<eintrag id="XSignal">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten">
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DSperrfahrt" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen">
+<formatdef id="DSchiebe" cssclass="durchgestrichen">
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="Dkm" cssclass="durchgestrichen">
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DRgl" cssclass="durchgestrichen">
+<formatdef id="DGl" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="8"> 
+<eintrag id="XZug"> 
+<eintrag id="@@@">
+<eintrag id="XSignal">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten">
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DZug" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen">
+<formatdef id="DSchiebe" cssclass="durchgestrichen">
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="Dkm" cssclass="durchgestrichen">
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DRgl" cssclass="durchgestrichen"> 
+<formatdef id="DGl" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="9"> 
+<eintrag id="XZug"> 
+<eintrag id="@@@">
+<eintrag id="XSignal">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten"> 
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DZug" cssclass="durchgestrichen"> 
+<formatdef id="DSperrfahrt" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen">
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="Dkm" cssclass="durchgestrichen">
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DRgl" cssclass="durchgestrichen"> 
+<formatdef id="DGl" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="A"> 
+<eintrag id="XZug"> 
+<eintrag id="Xkm">
+<eintrag id="@@@">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten">
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DSperrfahrt" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen"> 
+<formatdef id="DSchiebe" cssclass="durchgestrichen">
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen"> 
+<formatdef id="DSignal" cssclass="durchgestrichen"> 
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DRgl" cssclass="durchgestrichen"> 
+<formatdef id="DGl" cssclass="durchgestrichen">  
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="B"> 
+<eintrag id="XZug"> 
+<eintrag id="Xkm">
+<eintrag id="@@@">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten">
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DZug" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen">
+<formatdef id="DSchiebe" cssclass="durchgestrichen">
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="DSignal" cssclass="durchgestrichen"> 
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DRgl" cssclass="durchgestrichen"> 
+<formatdef id="DGl" cssclass="durchgestrichen">  
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="C"> 
+<eintrag id="XZug"> 
+<eintrag id="Xkm">
+<eintrag id="@@@">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten"> 
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DZug" cssclass="durchgestrichen"> 
+<formatdef id="DSperrfahrt" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen">
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="DSignal" cssclass="durchgestrichen"> 
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DRgl" cssclass="durchgestrichen"> 
+<formatdef id="DGl" cssclass="durchgestrichen">  
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="D"> 
+<eintrag id="XZug"> 
+<eintrag id="@@@">
+<eintrag id="XSignal">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten">
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DSperrfahrt" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen"> 
+<formatdef id="DSchiebe" cssclass="durchgestrichen">
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="Dkm" cssclass="durchgestrichen"> 
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DRgl" cssclass="durchgestrichen">
+<formatdef id="DGgl" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="E"> 
+<eintrag id="XZug"> 
+<eintrag id="@@@">
+<eintrag id="XSignal">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten">
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DZug" cssclass="durchgestrichen"> 
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen"> 
+<formatdef id="DSchiebe" cssclass="durchgestrichen"> 
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="Dkm" cssclass="durchgestrichen"> 
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DRgl" cssclass="durchgestrichen"> 
+<formatdef id="DGgl" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="F"> 
+<eintrag id="XZug"> 
+<eintrag id="@@@">
+<eintrag id="XSignal">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten"> 
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DZug" cssclass="durchgestrichen"> 
+<formatdef id="DSperrfahrt" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen"> 
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="Dkm" cssclass="durchgestrichen"> 
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DRgl" cssclass="durchgestrichen"> 
+<formatdef id="DGgl" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="10"> 
+<eintrag id="XZug"> 
+<eintrag id="Xkm">
+<eintrag id="@@@">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten">
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DSperrfahrt" cssclass="durchgestrichen"> 
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen"> 
+<formatdef id="DSchiebe" cssclass="durchgestrichen"> 
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="DSignal" cssclass="durchgestrichen"> 
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DRgl" cssclass="durchgestrichen"> 
+<formatdef id="DGgl" cssclass="durchgestrichen">  
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="11"> 
+<eintrag id="XZug"> 
+<eintrag id="Xkm">
+<eintrag id="@@@">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten">
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DZug" cssclass="durchgestrichen"> 
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen"> 
+<formatdef id="DSchiebe" cssclass="durchgestrichen"> 
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">
+<formatdef id="DSignal" cssclass="durchgestrichen"> 
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DRgl" cssclass="durchgestrichen"> 
+<formatdef id="DGgl" cssclass="durchgestrichen">  
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="12"> 
+<eintrag id="XZug"> 
+<eintrag id="Xkm">
+<eintrag id="@@@">
+<eintrag id="XGleis">
+<eintrag id="XOrt">
+<eintrag id="XFdl">
+<eintrag id="XTf">
+<eintrag id="XDatum">
+<eintrag id="XStunden">
+<eintrag id="XMinuten"> 
+<textdef id="XNr1" text="1"> 
+<textdef id="XNrS" text="1"> 
+<formatdef id="DZug" cssclass="durchgestrichen"> 
+<formatdef id="DSperrfahrt" cssclass="durchgestrichen">
+<formatdef id="DSperrfahrtKl" cssclass="durchgestrichen">
+<formatdef id="DRangierfahrt" cssclass="durchgestrichen">  
+<formatdef id="DSignal" cssclass="durchgestrichen"> 
+<formatdef id="DWeiche" cssclass="durchgestrichen">
+<formatdef id="DRgl" cssclass="durchgestrichen"> 
+<formatdef id="DGgl" cssclass="durchgestrichen">  
+</formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="100;300"> 
+<eintrag id="@@@">
+<eintrag id="@@@">
+<eintrag id="X1Bf">
+<textdef id="X1K" text="X"> 
+<formatdef id="D1Abzw" cssclass="durchgestrichen"> 
+<formatdef id="D1weiterfahren" cssclass="durchgestrichen"> 
+</formatdef></formatdef></textdef></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="200;400"> 
+<eintrag id="@@@">
+<eintrag id="@@@">
+<eintrag id="X1Bf">
+<textdef id="X1K" text="X"> 
+<formatdef id="D1Bf" cssclass="durchgestrichen"> 
+<formatdef id="D1einfahren" cssclass="durchgestrichen"> 
+</formatdef></formatdef></textdef></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="500"> 
+<eintrag id="X2Sig1">
+<eintrag id="X2Bez1"> 
+<eintrag id="X2Bf1">
+<textdef id="X2K" text="X"> 
+<formatdef id="D2weiter" cssclass="durchgestrichen"> 
+<formatdef id="D2vorbei" cssclass="durchgestrichen">
+<formatdef id="D2TR" cssclass="durchgestrichen">
+<formatdef id="D2ander" cssclass="durchgestrichen"> 
+<formatdef id="D2am" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></formatdef></formatdef></textdef></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="600"> 
+<eintrag id="@@@">
+<eintrag id="X2Bez1"> 
+<eintrag id="X2Bf1">
+<textdef id="X2Sig1" text="LZB-Halt">
+<textdef id="X2K" text="X"> 
+<formatdef id="D2weiter" cssclass="durchgestrichen"> 
+<formatdef id="D2vorbei" cssclass="durchgestrichen">
+<formatdef id="D2TR" cssclass="durchgestrichen">
+<formatdef id="D2ander" cssclass="durchgestrichen"> 
+<formatdef id="D2am" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="700;800"> 
+<eintrag id="@@@">
+<eintrag id="@@@">
+<eintrag id="X3Bf">
+<textdef id="X3K" text="X"> 
+</textdef></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="900;A00"> 
+<eintrag id="@@@">
+<eintrag id="@@@">
+<eintrag id="X1Bf">
+<textdef id="X1K" text="X"> 
+<textdef id="X1.1K" text="X"> 
+<formatdef id="D1Bf" cssclass="durchgestrichen"> 
+<formatdef id="D1einfahren" cssclass="durchgestrichen"> 
+</formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="B00"> 
+<eintrag id="X2Sig1">
+<eintrag id="X2Bez1"> 
+<eintrag id="X2Bf1">
+<textdef id="X2K" text="X"> 
+<textdef id="X2.1K" text="X"> 
+<formatdef id="D2weiter" cssclass="durchgestrichen"> 
+<formatdef id="D2vorbei" cssclass="durchgestrichen"> 
+<formatdef id="D2TR" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></textdef></textdef></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="C00"> 
+<eintrag id="@@@">
+<eintrag id="X2Bez1"> 
+<eintrag id="X2Bf1">
+<textdef id="X2Sig1" text="LZB-Halt">
+<textdef id="X2K" text="X"> 
+<textdef id="X2.1K" text="X"> 
+<formatdef id="D2weiter" cssclass="durchgestrichen"> 
+<formatdef id="D2vorbei" cssclass="durchgestrichen"> 
+<formatdef id="D2TR" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></textdef></textdef></textdef></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="D00;E00"> 
+<eintrag id="@@@">
+<eintrag id="@@@">
+<eintrag id="X3Bf">
+<textdef id="X3K" text="X"> 
+<textdef id="X3.1K" text="X">
+</textdef></textdef></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="10000"> 
+<eintrag id="X4Bfvon">
+<eintrag id="X4Bfbis"> 
+<textdef id="X4K" text="X"> 
+</textdef></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="1000000"> 
+<eintrag id="X7Sig">
+<eintrag id="X7km"> 
+<eintrag id="X7Bf"> 
+<textdef id="X7K" text="X">
+<formatdef id="D7Ne1" cssclass="durchgestrichen"> 
+<formatdef id="D7Bksig" cssclass="durchgestrichen"> 
+<formatdef id="D7Abzw" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></textdef></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="2000000"> 
+<eintrag id="X7Sig">
+<eintrag id="X7km"> 
+<eintrag id="X7Bf"> 
+<textdef id="X7K" text="X"> 
+<formatdef id="D7Ne1" cssclass="durchgestrichen"> 
+<formatdef id="D7Esig" cssclass="durchgestrichen"> 
+<formatdef id="D7Bf" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></textdef></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="3000000"> 
+<eintrag id="@@@">
+<eintrag id="X7km"> 
+<eintrag id="X7Bf"> 
+<textdef id="X7K" text="X">
+<formatdef id="D7Hoehe" cssclass="durchgestrichen"> 
+<formatdef id="D7Bksig" cssclass="durchgestrichen"> 
+<formatdef id="D7Esig" cssclass="durchgestrichen"> 
+<formatdef id="D7Abzw" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></formatdef></textdef></eintrag></eintrag></eintrag></zusibefehl>
+
+<zusibefehl typ="4000000"> 
+<eintrag id="@@@">
+<eintrag id="X7km"> 
+<eintrag id="X7Bf"> 
+<textdef id="X7K" text="X">
+<formatdef id="D7Hoehe" cssclass="durchgestrichen">
+<formatdef id="D7Bksig" cssclass="durchgestrichen"> 
+<formatdef id="D7Esig" cssclass="durchgestrichen">
+<formatdef id="D7Bf" cssclass="durchgestrichen"> 
+</formatdef></formatdef></formatdef></formatdef></textdef></eintrag></eintrag></eintrag></zusibefehl>
+
+<p></p>
+
+
+</zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></zusidef></font></body></html>

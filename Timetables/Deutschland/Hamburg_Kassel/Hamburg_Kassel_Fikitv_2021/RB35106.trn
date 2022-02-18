@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="RB" Nummer="35106" Prio="1900" BremsstellungZug="5" MBrh="1.6759" APBeschl="1" ReisendenDichte="0.6" FahrplanGruppe="9b. RB15 Dannenberg Ost - Winsen (Luhe)" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Lüneburg Gbf C003" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35102.timetable.xml"/>
+<FahrplanEintrag Ank="2021-07-21 10:57:00" Abf="2021-07-21 10:57:00" Betrst="Lüneburg Gbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="C003"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 11:01:00" Abf="2021-07-21 11:03:00" Betrst="Lüneburg">
+<FahrplanSignalEintrag FahrplanSignal="R302"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lüneburg">
+<FahrplanSignalEintrag FahrplanSignal="N390"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 11:08:30" Abf="2021-07-21 11:09:00" Betrst="Bardowick Hp"/>
+<FahrplanEintrag Betrst="Sbk 65319">
+<FahrplanSignalEintrag FahrplanSignal="65319"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 11:13:30" Abf="2021-07-21 11:14:00" Betrst="Radbruch Hp"/>
+<FahrplanEintrag Betrst="Sbk 63329">
+<FahrplanSignalEintrag FahrplanSignal="63329"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Winsen (Luhe)">
+<FahrplanSignalEintrag FahrplanSignal="63B"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 11:19:00" Abf="2021-07-21 11:41:00" Betrst="Winsen (Luhe)" FzgVerbandAktion="2" FzgVerbandWendeSignalabstand="180">
+<FahrplanSignalEintrag FahrplanSignal="63N3"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 63334">
+<FahrplanSignalEintrag FahrplanSignal="63334"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 11:46:30" Abf="2021-07-21 11:47:30" Betrst="Radbruch Hp"/>
+<FahrplanEintrag Betrst="Sbk 65326">
+<FahrplanSignalEintrag FahrplanSignal="65326"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 11:51:30" Abf="2021-07-21 11:52:00" Betrst="Bardowick Hp"/>
+<FahrplanEintrag Betrst="Sbk 65316">
+<FahrplanSignalEintrag FahrplanSignal="65316"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lüneburg">
+<FahrplanSignalEintrag FahrplanSignal="F004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lüneburg">
+<FahrplanSignalEintrag FahrplanSignal="S390"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 11:56:00" Abf="2021-07-21 12:02:00" Betrst="Lüneburg">
+<FahrplanSignalEintrag FahrplanSignal="S302"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 12:07:00" Betrst="Lüneburg Gbf">
+<FahrplanSignalEintrag FahrplanSignal="HilfSig_nDannenberg"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="2" DotraModus="1" FahrzeugZusatzinfo="642 049">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Dieseltriebwagen\DesiroClassic\DesiroClassic_A-Wagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" DotraModus="1" Gedreht="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Dieseltriebwagen\DesiroClassic\DesiroClassic_B-Wagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" DotraModus="1" FahrzeugZusatzinfo="642 049">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Dieseltriebwagen\DesiroClassic\DesiroClassic_A-Wagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" DotraModus="1" Gedreht="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Dieseltriebwagen\DesiroClassic\DesiroClassic_B-Wagen.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Buchfahrplan" Version="A.4" MinVersion="A.0"/>
+<Buchfahrplan Gattung="RE" Nummer="4701" Zuglauf="Celle - Hannover Hbf" BR="193" Masse="494000" spMax="55.5556" Bremsh="1.996" Laenge="222.76" LaengeLoks="37.96" kmStart="42.8542" BremsstellungZug="5">
+<Datei_fpn Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<Datei_trn Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4701.trn" NurInfo="1"/>
+<UTM UTM_WE="565" UTM_NS="5786" UTM_Zone="32" UTM_Zone2="U"/>
+<FplZeile FplLaufweg="5.9099">
+<FplvMax vMax="41.6667"/>
+<Fplkm km="0.0059"/>
+</FplZeile>
+<FplZeile FplLaufweg="364.853">
+<FplName FplNameText="Celle Gbf"/>
+<Fplkm km="43.2207"/>
+<FplAnk Ank="2021-07-21 02:00:00"/>
+<FplAbf Abf="2021-07-21 04:38:00"/>
+</FplZeile>
+<FplZeile FplLaufweg="461.9251">
+<FplIcon FplIconNr="7"/>
+<Fplkm km="43.2"/>
+<FplName FplNameText="Avsig , Zsig"/>
+</FplZeile>
+<FplZeile FplLaufweg="1163.1781">
+<FplName FplNameText="Celle"/>
+<Fplkm km="44.0131"/>
+<FplRichtungswechsel/>
+<FplAnk Ank="2021-07-21 04:40:00"/>
+<FplAbf Abf="2021-07-21 04:52:00"/>
+</FplZeile>
+<FplZeile FplLaufweg="1289.2548">
+<FplSignaltyp FplSignaltypNr="9"/>
+<Fplkm km="44.1386"/>
+</FplZeile>
+<FplZeile FplLaufweg="1293.8728">
+<Fplkm km="44.1386" FplSprung="1" FplkmNeu="43.8231"/>
+</FplZeile>
+<FplZeile FplLaufweg="1561.1573">
+<Fplkm km="43.5603"/>
+</FplZeile>
+<FplZeile FplLaufweg="1926.0714">
+<FplName FplNameText="Celle Gbf"/>
+<Fplkm km="43.1914"/>
+<FplAbf Abf="2021-07-21 04:53:00"/>
+</FplZeile>
+<FplZeile FplLaufweg="2408.1692">
+<FplSignaltyp FplSignaltypNr="9"/>
+<Fplkm km="42.7062"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="3000.0369" FahrstrStrecke="30a">
+<Fplkm km="42.1147" FplSprung="1" FplkmNeu="39.281"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="3000.0369" FahrstrStrecke="30a">
+<Fplkm km="42.1147" FplSprung="1" FplkmNeu="39.281"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="3214.3706" FahrstrStrecke="30a">
+<Fplkm km="39"/>
+<FplIcon FplIconNr="17"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="3297.0427" FahrstrStrecke="30a">
+<Fplkm km="38.9"/>
+<FplIcon FplIconNr="17"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="3381.8052" FahrstrStrecke="30a">
+<FplvMax vMax="44.4444"/>
+<Fplkm km="38.8977"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="3382.2019" FahrstrStrecke="30a">
+<FplvMax vMax="44.4444"/>
+<Fplkm km="38.8977"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="4302.2173" FahrstrStrecke="30a">
+<FplvMax vMax="55.5556"/>
+<Fplkm km="37.9777"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="4304.9302" FahrstrStrecke="30a">
+<FplvMax vMax="55.5556"/>
+<Fplkm km="37.9776"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="4438.8599" FahrstrStrecke="30a">
+<FplIcon FplIconNr="5"/>
+<Fplkm km="37.841"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="4441.6333" FahrstrStrecke="30a">
+<FplIcon FplIconNr="5"/>
+<Fplkm km="37.841"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="5314.9766" FahrstrStrecke="30a">
+<FplName FplNameText="Sbk 76202"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="36.965"/>
+<FplAbf Abf="2021-07-21 04:55:00"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="5317.7485" FahrstrStrecke="30a">
+<FplName FplNameText="Sbk 76102"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="36.9798"/>
+</FplZeile>
+</Buchfahrplan>
+</Zusi>

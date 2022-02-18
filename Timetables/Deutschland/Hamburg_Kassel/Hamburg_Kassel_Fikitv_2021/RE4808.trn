@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="RE" Nummer="4808" Zuglauf="Stendal - Uelzen - Stendal" Prio="2000" BremsstellungZug="5" APBeschl="1" Dekozug="1" ReisendenDichte="0.6" FahrplanGruppe="7. RE3 Stendal - Hamburg Hbf" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Üst Veerßen 701" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4808.timetable.xml"/>
+<FahrplanEintrag Ank="2021-07-21 07:58:00" Abf="2021-07-21 07:58:00" Betrst="Üst Veerßen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="701"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Uelzen Gbf">
+<FahrplanSignalEintrag FahrplanSignal="B"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:01:00" Betrst="Uelzen Gbf">
+<FahrplanSignalEintrag FahrplanSignal="R204"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 08:03:00" Abf="2021-07-21 08:11:00" Betrst="Uelzen" FzgVerbandAktion="2" FzgVerbandWendeSignalabstand="60">
+<FahrplanSignalEintrag FahrplanSignal="N304"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:12:00" Betrst="Uelzen Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P204"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:15:00" Betrst="Üst Veerßen">
+<FahrplanSignalEintrag FahrplanSignal="712"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Elektroloks\DDR\212_243\212.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" Gedreht="1" NVRNummer="50 80 86-75 062-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpbzfa_765.5.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

@@ -1,0 +1,594 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Buchfahrplan" Version="A.4" MinVersion="A.0"/>
+<Buchfahrplan Gattung="RB" Nummer="35400" Zuglauf="Lüneburg - Hamburg Hbf" BR="442" Masse="314000" spMax="44.4444" Bremsh="1.9427" MBrh="1.855" Laenge="144.6" LaengeLoks="80.2" kmStart="130.3841" BremsstellungZug="5">
+<Datei_fpn Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<Datei_trn Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35400.trn" NurInfo="1"/>
+<UTM UTM_WE="565" UTM_NS="5786" UTM_Zone="32" UTM_Zone2="U"/>
+<FplZeile FplLaufweg="15">
+<FplvMax vMax="44.4445"/>
+<Fplkm km="0.0109"/>
+</FplZeile>
+<FplZeile FplLaufweg="110.9842">
+<FplName FplNameText="Lüneburg Gbf"/>
+<Fplkm km="130.4973"/>
+<FplAnk Ank="2021-07-21 02:00:00"/>
+<FplAbf Abf="2021-07-21 04:39:00"/>
+</FplZeile>
+<FplZeile FplLaufweg="543.425">
+<FplvMax vMax="11.1111"/>
+<Fplkm km="130.9687"/>
+<FplSignaltyp FplSignaltypNr="8"/>
+</FplZeile>
+<FplZeile FplLaufweg="819.619">
+<Fplkm km="131.2082" FplSprung="1" FplkmNeu="228.577"/>
+</FplZeile>
+<FplZeile FplLaufweg="1222.2319">
+<FplName FplNameText="Lüneburg"/>
+<Fplkm km="228.9794"/>
+<FplAnk Ank="2021-07-21 04:41:00"/>
+<FplAbf Abf="2021-07-21 04:46:00"/>
+</FplZeile>
+<FplZeile FplLaufweg="1472.2319">
+<FplSignaltyp FplSignaltypNr="8"/>
+<Fplkm km="229.233"/>
+</FplZeile>
+<FplZeile FplLaufweg="1547.355">
+<FplvMax vMax="16.6667"/>
+<Fplkm km="229.3064"/>
+</FplZeile>
+<FplZeile FplLaufweg="2194.6614">
+<FplSignaltyp FplSignaltypNr="9"/>
+<Fplkm km="229.9524"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="2322.9426" FahrstrStrecke="30b">
+<Fplkm km="230.0373" FplSprung="1" FplkmNeu="132.6679"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="2322.9426" FahrstrStrecke="30b">
+<Fplkm km="230.0373" FplSprung="1" FplkmNeu="132.6679"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="2416.6633" FahrstrStrecke="30b">
+<FplvMax vMax="36.1111"/>
+<Fplkm km="132.7712"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="2416.6633" FahrstrStrecke="30b">
+<FplvMax vMax="36.1111"/>
+<Fplkm km="132.7712"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="2585.73" FahrstrStrecke="30b">
+<FplvMax vMax="38.8889"/>
+<Fplkm km="132.9355"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="2592.5564" FahrstrStrecke="30b">
+<FplvMax vMax="38.8889"/>
+<Fplkm km="132.9383"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="2637.554" FahrstrStrecke="30b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="132.9824"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="2640.9902" FahrstrStrecke="30b">
+<FplIcon FplIconNr="7"/>
+<FplName FplNameText="Bkvsig"/>
+<Fplkm km="132.9858"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="3158.2471" FahrstrStrecke="30b">
+<FplvMax vMax="55.5556"/>
+<Fplkm km="133.4903"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="3159.9922" FahrstrStrecke="30b">
+<FplvMax vMax="55.5556"/>
+<Fplkm km="133.5097"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="3229.0364" FahrstrStrecke="30b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="133.5749"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="3540.4421" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Bkvsig"/>
+<Fplkm km="133.8863"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="3542.1865" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 65111"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="133.8863"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="4494.8018" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Sbk 65213"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="134.8344"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="4496.5459" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 65113"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="134.8344"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="5562.4414" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Evsig"/>
+<Fplkm km="135.9008"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="5564.1851" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 65115"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="135.9008"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="6581.7446" FahrstrStrecke="30b">
+<FplSignaltyp FplSignaltypNr="7"/>
+<Fplkm km="136.923"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="6584.0225" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Esig"/>
+<Fplkm km="136.9227"/>
+</FplZeile>
+<FplZeile FplLaufweg="7122.3457">
+<FplName FplNameText="Bardowick"/>
+<Fplkm km="137.4634"/>
+<FplAnk Ank="2021-07-21 04:50:30"/>
+<FplAbf Abf="2021-07-21 04:51:00"/>
+</FplZeile>
+<FplZeile FplLaufweg="7940.5049">
+<FplSignaltyp FplSignaltypNr="9"/>
+<Fplkm km="138.282"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="8082.9385" FahrstrStrecke="30b">
+<Fplkm km="138.4222" FplSprung="1" FplkmNeu="138.2866"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="8120.8569" FahrstrStrecke="30b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="138.3245"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="8164.5811" FahrstrStrecke="30b">
+<Fplkm km="138.6384" FplSprung="1" FplkmNeu="138.5034"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="8221.9512" FahrstrStrecke="30b">
+<Fplkm km="138.4"/>
+<FplIcon FplIconNr="17"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="8977.0879" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 65121"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="139.3195"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="9960.3447" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 65123"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="140.3034"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="11171.1885" FahrstrStrecke="30b">
+<FplIcon FplIconNr="5"/>
+<Fplkm km="141.5143"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="11177.0254" FahrstrStrecke="30b">
+<FplIcon FplIconNr="5"/>
+<Fplkm km="141.5173"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="11348.8203" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 65125"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="141.6919"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="11351.6553" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Sbk 65225"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="141.6919"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="12552.7705" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 65127"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="142.8958"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="12555.6055" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Bkvsig"/>
+<Fplkm km="142.8958"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="13359.8145" FahrstrStrecke="30b">
+<FplName FplNameText="Radbruch Hp"/>
+<Fplkm km="143.7029"/>
+<FplAnk Ank="2021-07-21 04:55:00"/>
+<FplAbf Abf="2021-07-21 04:55:30"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="13612.2578" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 63129"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="143.9553"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="13615.0967" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Sbk 63229 , ohne Ne 4"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="143.9553"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="14866.29" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 63131"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="145.2094"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="14869.2764" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Bkvsig"/>
+<Fplkm km="145.2094"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="16113.2773" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 63133"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="146.447"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="16116.8691" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Sbk 63233"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="146.447"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="17350.1133" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 63135"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="147.6815"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="17353.7031" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Evsig"/>
+<Fplkm km="147.6815"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="18452.375" FahrstrStrecke="30b">
+<FplSignaltyp FplSignaltypNr="7"/>
+<Fplkm km="148.7838"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="18455.9629" FahrstrStrecke="30b">
+<FplSignaltyp FplSignaltypNr="7"/>
+<Fplkm km="148.7838"/>
+</FplZeile>
+<FplZeile FplLaufweg="19908.3418">
+<FplIcon FplIconNr="7"/>
+<FplName FplNameText=".( Avsig ), (Zsig)"/>
+<Fplkm km="150.2395"/>
+</FplZeile>
+<FplZeile FplLaufweg="20099.4688">
+<FplName FplNameText="Winsen (Luhe)"/>
+<Fplkm km="150.4306"/>
+<FplAnk Ank="2021-07-21 04:59:30"/>
+<FplAbf Abf="2021-07-21 05:00:00"/>
+</FplZeile>
+<FplZeile FplLaufweg="20366.4648">
+<FplName FplNameText="Asig (Ri F)"/>
+<Fplkm km="150.6975"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="20388.8965" FahrstrStrecke="30b">
+<Fplkm km="150.7164" FplSprung="1" FplkmNeu="150.5656"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="20513.8691" FahrstrStrecke="30b">
+<Fplkm km="150.9946" FplSprung="1" FplkmNeu="150.8427"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="20590.2598" FahrstrStrecke="30b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="150.7672"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="20625.7188" FahrstrStrecke="30b">
+<Fplkm km="150.9"/>
+<FplIcon FplIconNr="17"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="21317.3027" FahrstrStrecke="30b">
+<Fplkm km="151.7"/>
+<FplName FplNameText="Sbk 63141"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="21318.5039" FahrstrStrecke="30b">
+<Fplkm km="151.7"/>
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Bkvsig"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="22278.4395" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 63143"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="152.5994"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="22280.1094" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 63243"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="152.5994"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="23229.4258" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 63145"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="153.5507"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="23232.4258" FahrstrStrecke="30b">
+<FplIcon FplIconNr="7"/>
+<FplName FplNameText="Bkvsig"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="23876.0762" FahrstrStrecke="30b">
+<FplIcon FplIconNr="5"/>
+<Fplkm km="154.1973"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="23877.7402" FahrstrStrecke="30b">
+<FplIcon FplIconNr="5"/>
+<Fplkm km="154.1973"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="24124.4785" FahrstrStrecke="30b">
+<FplName FplNameText="Bksig"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="154.4457"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="24126.1465" FahrstrStrecke="30b">
+<Fplkm km="154.4457"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="24432.7852" FahrstrStrecke="497b">
+<Fplkm km="154.7541"/>
+<FplvMax vMax="27.7778"/>
+<Fplkm km="154.7346"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="24495.1855" FahrstrStrecke="497b">
+<FplName FplNameText="- Gz-Gleis -" FplWichtigkeit="1"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="24510.5313" FahrstrStrecke="497b">
+<FplName FplNameText="Abzw Ashausen"/>
+<Fplkm km="154.8327"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="24511.7012" FahrstrStrecke="497b">
+<FplIcon FplIconNr="18"/>
+<FplName FplNameText="600A"/>
+<FplIcon FplIconNr="6"/>
+<Fplkm km="154.8339"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="24545.8828" FahrstrStrecke="497b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="154.8681"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="24549.332" FahrstrStrecke="497b">
+<FplvMax vMax="36.1111"/>
+<Fplkm km="154.8745"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="24692.832" FahrstrStrecke="497b">
+<FplName FplNameText="Ashausen Hp"/>
+<Fplkm km="155.0152"/>
+<FplAnk Ank="2021-07-21 05:02:50"/>
+<FplAbf Abf="2021-07-21 05:03:20"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="25126.959" FahrstrStrecke="497b">
+<FplName FplNameText="Sbk 62449"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="155.449"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="26074.5" FahrstrStrecke="497b">
+<FplName FplNameText="Sbk 62451"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="156.3962"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="27223.4121" FahrstrStrecke="497b">
+<FplvMax vMax="22.2222"/>
+<Fplkm km="157.6"/>
+<FplSignaltyp FplSignaltypNr="7"/>
+</FplZeile>
+<FplZeile FplLaufweg="27907.3203">
+<FplName FplNameText="Stelle"/>
+<Fplkm km="158.2303"/>
+<FplAnk Ank="2021-07-21 05:07:00"/>
+<FplAbf Abf="2021-07-21 05:08:00"/>
+</FplZeile>
+<FplZeile FplLaufweg="28323.707">
+<FplvMax vMax="55.5556"/>
+<Fplkm km="158.6404"/>
+<FplSignaltyp FplSignaltypNr="9"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="28578.4238" FahrstrStrecke="30b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="158.9002"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="28727.9102" FahrstrStrecke="30b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="159.0479"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="29352.2656" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 161"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="159.6755"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="29353.7734" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Ne 2"/>
+<Fplkm km="159.6755"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="30356.5664" FahrstrStrecke="30b">
+<FplSignaltyp FplSignaltypNr="7"/>
+<Fplkm km="160.6803"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="30359.5801" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Ls"/>
+<Fplkm km="160.6808"/>
+</FplZeile>
+<FplZeile FplLaufweg="30932.5684">
+<FplIcon FplIconNr="6"/>
+<Fplkm km="161.2565"/>
+</FplZeile>
+<FplZeile FplLaufweg="31277.2773">
+<FplName FplNameText="Maschen Pbf"/>
+<Fplkm km="161.6008"/>
+<FplAnk Ank="2021-07-21 05:11:30"/>
+<FplAbf Abf="2021-07-21 05:12:00"/>
+</FplZeile>
+<FplZeile FplLaufweg="31317.0801">
+<FplSignaltyp FplSignaltypNr="9"/>
+<Fplkm km="161.6405"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="31467.7324" FahrstrStrecke="30b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="161.8165"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="31634.9922" FahrstrStrecke="30b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="161.9583"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="32269.4961" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 171"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="162.5943"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="32536.0371" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Ne 2"/>
+<Fplkm km="162.8862"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="33389.0742" FahrstrStrecke="30b">
+<FplSignaltyp FplSignaltypNr="10" FplHilfssignal="1"/>
+<Fplkm km="163.7396"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="33415.2422" FahrstrStrecke="30b">
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="163.7395"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="34080.4805" FahrstrStrecke="30b">
+<FplName FplNameText="Bft Meckelfeld Abzw"/>
+<Fplkm km="164.4307"/>
+<FplAbf Abf="2021-07-21 05:15:00"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="34104.1641" FahrstrStrecke="30b">
+<FplName FplNameText="Bft Meckelfeld Abzw"/>
+<Fplkm km="164.4289"/>
+<FplAbf Abf="2021-07-21 05:15:00"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="34281.4688" FahrstrStrecke="30b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="164.6316"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="34375.4258" FahrstrStrecke="30b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="164.7002"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="34656.3633" FahrstrStrecke="30b">
+<FplName FplNameText="Meckelfeld Hp"/>
+<Fplkm km="165.0061"/>
+<FplAnk Ank="2021-07-21 05:15:30"/>
+<FplAbf Abf="2021-07-21 05:16:00"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="34692.5547" FahrstrStrecke="30b">
+<FplName FplNameText="Meckelfeld Hp"/>
+<Fplkm km="165.0175"/>
+<FplAnk Ank="2021-07-21 05:15:30"/>
+<FplAbf Abf="2021-07-21 05:16:00"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="35065.418" FahrstrStrecke="30b">
+<FplName FplNameText="- Pz-Gleis -" FplWichtigkeit="1"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="35092.8086" FahrstrStrecke="30b">
+<FplName FplNameText="- Pz-Gleis -" FplWichtigkeit="1"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="35196.6055" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 181"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="165.5217"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="35249.5039" FahrstrStrecke="30b">
+<FplIcon FplIconNr="6"/>
+<Fplkm km="165.5987"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="35273.8047" FahrstrStrecke="30b">
+<FplvMax vMax="44.4444"/>
+<Fplkm km="165.5989"/>
+<FplIcon FplIconNr="6"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="35431.6484" FahrstrStrecke="30b">
+<FplvMax vMax="55.5556"/>
+<Fplkm km="165.7712"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="35535.4023" FahrstrStrecke="30b">
+<FplvMax vMax="44.4444"/>
+<Fplkm km="165.9624"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="35559.5469" FahrstrStrecke="30b">
+<FplvMax vMax="44.4444"/>
+<Fplkm km="165.9626"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="35980.5391" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<FplName FplNameText="Evsig"/>
+<Fplkm km="166.385"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="36150.9063" FahrstrStrecke="30b">
+<FplName FplNameText="Sbk 183"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="166.5313"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="37046.1055" FahrstrStrecke="30b">
+<FplIcon FplIconNr="31"/>
+<Fplkm km="167.5"/>
+<FplName FplNameText="Esig Hmb-Harburg"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="37105.5781" FahrstrStrecke="30b">
+<FplName FplNameText="Esig Hmb-Harburg"/>
+<Fplkm km="167.4859"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="37122.0117" FahrstrStrecke="30b">
+<Fplkm km="167.5023"/>
+</FplZeile>
+<FplZeile FplRglGgl="3" FplLaufweg="37124.3477" FahrstrStrecke="30b">
+<Fplkm km="167.5019"/>
+</FplZeile>
+<FplZeile FplLaufweg="37534.4609">
+<FplIcon FplIconNr="22"/>
+<Fplkm km="167.9148"/>
+</FplZeile>
+<FplZeile FplLaufweg="38072.5156">
+<FplvMax vMax="33.3333"/>
+<Fplkm km="168.4527"/>
+<FplSignaltyp FplSignaltypNr="8"/>
+</FplZeile>
+<FplZeile FplLaufweg="38271.1211">
+<Fplkm km="168.6514" FplSprung="1" FplkmNeu="342.593"/>
+</FplZeile>
+<FplZeile FplLaufweg="38982.4414">
+<FplName FplNameText="Hmb-Harburg"/>
+<Fplkm km="343.3042"/>
+<FplAnk Ank="2021-07-21 05:19:30"/>
+<FplAbf Abf="2021-07-21 05:20:00"/>
+</FplZeile>
+<FplZeile FplLaufweg="39078.9063">
+<FplSignaltyp FplSignaltypNr="8"/>
+<Fplkm km="343.4006"/>
+</FplZeile>
+<FplZeile FplLaufweg="40023.625">
+<FplSignaltyp FplSignaltypNr="9"/>
+<Fplkm km="344.3449"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="40202.5078" FahrstrStrecke="2200b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="344.5388"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="40204.8438" FahrstrStrecke="2200b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="344.5388"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="40749.0117" FahrstrStrecke="2200b">
+<FplvMax vMax="27.7778"/>
+<FplName FplNameText="- Pz-Gleis -"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="40751.3477" FahrstrStrecke="2200b">
+<FplvMax vMax="27.7778"/>
+<FplName FplNameText="- Pz-Gleis -"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="41100.3633" FahrstrStrecke="2200b">
+<FplvMax vMax="44.4444"/>
+<Fplkm km="345.4406"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="41102.6992" FahrstrStrecke="2200b">
+<FplvMax vMax="44.4444"/>
+<Fplkm km="345.4406"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="41109.0781" FahrstrStrecke="2200b">
+<FplName FplNameText="Sbk 403"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="345.4455"/>
+<FplAbf Abf="2021-07-21 05:23:00"/>
+</FplZeile>
+<FplZeile FplRglGgl="2" FplLaufweg="41111.4141" FahrstrStrecke="2200b">
+<FplName FplNameText="Sbk 403"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="345.4455"/>
+</FplZeile>
+</Buchfahrplan>
+</Zusi>

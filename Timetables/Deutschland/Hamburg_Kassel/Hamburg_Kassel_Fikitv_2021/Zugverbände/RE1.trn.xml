@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="FahrzeugVarianten" Version="A.4" MinVersion="A.0"/>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="4" IDNeben="2" DotraModus="1" SASchaltung="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektroloks\Vectron\Vectron_MS.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="4" IDNeben="2" DotraModus="1" SASchaltung="2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektroloks\Vectron\Vectron_MS.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zusi>

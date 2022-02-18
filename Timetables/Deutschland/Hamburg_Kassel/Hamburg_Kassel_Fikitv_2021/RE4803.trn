@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="RE" Nummer="4803" Zuglauf="Hamburg Hbf - Stendal" Prio="2250" BremsstellungZug="5" APBeschl="1" ReisendenDichte="0.6" FahrplanGruppe="7. RE3 Stendal - Hamburg Hbf" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Hmb-Harburg 41F" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4803.timetable.xml"/>
+<FahrplanEintrag Ank="2021-07-21 06:16:00" Abf="2021-07-21 06:16:00" Betrst="Hmb-Harburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="41F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Hmb-Harburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="41S4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 06:18:00" Abf="2021-07-21 06:20:00" Betrst="Hmb-Harburg">
+<FahrplanSignalEintrag FahrplanSignal="41U4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Hmb-Harburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="41P4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:22:00" Betrst="Meckelfeld Hp"/>
+<FahrplanEintrag Abf="2021-07-21 06:23:00" Betrst="Bft Meckelfeld Abzw" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="H"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 172">
+<FahrplanSignalEintrag FahrplanSignal="172"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:24:00" Betrst="Maschen Pbf">
+<FahrplanSignalEintrag FahrplanSignal="P4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:26:00" Betrst="Stelle">
+<FahrplanSignalEintrag FahrplanSignal="P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 63244">
+<FahrplanSignalEintrag FahrplanSignal="63244"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 06:29:30" Abf="2021-07-21 06:30:00" Betrst="Winsen (Luhe)">
+<FahrplanSignalEintrag FahrplanSignal="63P3"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 63230">
+<FahrplanSignalEintrag FahrplanSignal="63230"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 65222">
+<FahrplanSignalEintrag FahrplanSignal="65222"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:36:00" Betrst="Bardowick">
+<FahrplanSignalEintrag FahrplanSignal="65P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lüneburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="G005"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 06:40:00" Abf="2021-07-21 06:42:00" Betrst="Lüneburg">
+<FahrplanSignalEintrag FahrplanSignal="S201"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:43:00" Betrst="Lüneburg Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P101"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 06:45:00" Betrst="Deutsch Evern">
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 06:50:00" Abf="2021-07-21 06:55:00" Betrst="Bienenbüttel">
+<FahrplanSignalEintrag FahrplanSignal="P3"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bad Bevensen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:00:30" Abf="2021-07-21 07:01:00" Betrst="Bad Bevensen">
+<FahrplanSignalEintrag FahrplanSignal="S2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bad Bevensen">
+<FahrplanSignalEintrag FahrplanSignal="P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Uelzen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="G"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:07:00" Abf="2021-07-21 07:09:00" Betrst="Uelzen">
+<FahrplanSignalEintrag FahrplanSignal="S301"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:10:00" Betrst="Uelzen Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P201"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:12:00" Betrst="Üst Veerßen">
+<FahrplanSignalEintrag FahrplanSignal="712"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" NVRNummer="50 80 86-75 062-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpbzfa_765.5.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" Gedreht="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" Gedreht="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" Gedreht="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="2" Gedreht="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Elektroloks\DDR\212_243\212.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

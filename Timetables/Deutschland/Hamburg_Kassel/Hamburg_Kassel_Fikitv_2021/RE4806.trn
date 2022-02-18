@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="RE" Nummer="4806" Zuglauf="Stendal - Hamburg Hbf" Prio="2000" BremsstellungZug="5" APBeschl="1" ReisendenDichte="0.6" FahrplanGruppe="7. RE3 Stendal - Hamburg Hbf" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Üst Veerßen 701" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4806.timetable.xml"/>
+<FahrplanEintrag Ank="2021-07-21 06:58:00" Abf="2021-07-21 06:58:00" Betrst="Üst Veerßen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="701"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Uelzen Gbf">
+<FahrplanSignalEintrag FahrplanSignal="D"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:01:00" Betrst="Uelzen Gbf">
+<FahrplanSignalEintrag FahrplanSignal="R2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:03:00" Abf="2021-07-21 07:05:00" Betrst="Uelzen">
+<FahrplanSignalEintrag FahrplanSignal="N102"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 61">
+<FahrplanSignalEintrag FahrplanSignal="61"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bad Bevensen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="A"/>
+<FahrplanFahrstrasseEintrag FahrplanFahrstrasse="Bad Bevensen A -&gt; Bad Bevensen N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:13:30" Abf="2021-07-21 07:14:00" Betrst="Bad Bevensen">
+<FahrplanSignalEintrag FahrplanSignal="N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:19:30" Abf="2021-07-21 07:20:00" Betrst="Bienenbüttel">
+<FahrplanSignalEintrag FahrplanSignal="N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:24:00" Betrst="Deutsch Evern">
+<FahrplanSignalEintrag FahrplanSignal="N2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:27:00" Betrst="Lüneburg Gbf">
+<FahrplanSignalEintrag FahrplanSignal="R102"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:29:00" Abf="2021-07-21 07:34:00" Betrst="Lüneburg">
+<FahrplanSignalEintrag FahrplanSignal="T203"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lüneburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="N272"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:38:00" Betrst="Bardowick">
+<FahrplanSignalEintrag FahrplanSignal="65N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 65127">
+<FahrplanSignalEintrag FahrplanSignal="65127"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:40:00" Betrst="Radbruch Hp"/>
+<FahrplanEintrag Betrst="Sbk 63135">
+<FahrplanSignalEintrag FahrplanSignal="63135"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Winsen (Luhe)" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="63A"/>
+<FahrplanFahrstrasseEintrag FahrplanFahrstrasse="Winsen (Luhe) 63A -&gt; Winsen (Luhe) 63N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:44:00" Abf="2021-07-21 07:45:00" Betrst="Winsen (Luhe)">
+<FahrplanSignalEintrag FahrplanSignal="63N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:48:00" Betrst="Abzw Ashausen">
+<FahrplanSignalEintrag FahrplanSignal="62147"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 62151">
+<FahrplanSignalEintrag FahrplanSignal="62151"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:49:00" Betrst="Stelle">
+<FahrplanSignalEintrag FahrplanSignal="N3"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:50:00" Betrst="Maschen Pbf">
+<FahrplanSignalEintrag FahrplanSignal="N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:52:00" Betrst="Bft Meckelfeld Abzw">
+<FahrplanSignalEintrag FahrplanSignal="O1057"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:52:00" Betrst="Meckelfeld Hp"/>
+<FahrplanEintrag Betrst="Sbk 181">
+<FahrplanSignalEintrag FahrplanSignal="181"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Hmb-Harburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="41B"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Hmb-Harburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="41R1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:55:00" Abf="2021-07-21 07:57:00" Betrst="Hmb-Harburg">
+<FahrplanSignalEintrag FahrplanSignal="41T1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Hmb-Harburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="41N1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:00:00" Betrst="Sbk 403">
+<FahrplanSignalEintrag FahrplanSignal="403"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Elektroloks\DDR\212_243\212.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpza_780.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" Gedreht="1" NVRNummer="50 80 86-75 062-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Reisezugwagen\Doppelstockwagen\DBpbzfa_765.5.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="RE" Nummer="4701" Zuglauf="Celle - Hannover Hbf" Prio="2500" BremsstellungZug="5" APBeschl="1" ReisendenDichte="0.6" FahrplanGruppe="3. RE1 &quot;HHX&quot; Hannover Hbf - Hamburg Hbf" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Celle Gbf R12" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RE4701.timetable.xml"/>
+<FahrplanEintrag Ank="2021-07-21 02:00:00" Abf="2021-07-21 04:38:00" Betrst="Celle Gbf" FzgVerbandWendeSignalabstand="240">
+<FahrplanSignalEintrag FahrplanSignal="R12"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 04:40:00" Abf="2021-07-21 04:52:00" Betrst="Celle" FzgVerbandAktion="2" FzgVerbandWendeSignalabstand="75">
+<FahrplanSignalEintrag FahrplanSignal="N4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 04:53:00" Betrst="Celle Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P24"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 04:55:00" Betrst="Sbk 76202">
+<FahrplanSignalEintrag FahrplanSignal="76202"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="4" IDNeben="2" DotraModus="1" SASchaltung="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektroloks\Vectron\Vectron_MS.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="4" IDNeben="2" DotraModus="1" SASchaltung="2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektroloks\Vectron\Vectron_MS.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

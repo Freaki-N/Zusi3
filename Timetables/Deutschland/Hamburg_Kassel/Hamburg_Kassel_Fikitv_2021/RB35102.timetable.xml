@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Buchfahrplan" Version="A.4" MinVersion="A.0"/>
+<Buchfahrplan Gattung="RB" Nummer="35102" BR="642" Masse="164000" spMax="33.3333" Bremsh="1.7561" MBrh="1.6759" Laenge="83.4" LaengeLoks="83.4" kmStart="226.435" BremsstellungZug="5">
+<Datei_fpn Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<Datei_trn Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\RB35102.trn" NurInfo="1"/>
+<UTM UTM_WE="565" UTM_NS="5786" UTM_Zone="32" UTM_Zone2="U"/>
+<Fzg FahrzeugZusatzinfo="642 049"/>
+<Fzg FahrzeugZusatzinfo="642 049"/>
+<FplZeile FplLaufweg="35.0495">
+<FplvMax vMax="16.6667"/>
+<Fplkm km="0.0701"/>
+</FplZeile>
+<FplZeile FplLaufweg="1563.1167">
+<FplSignaltyp FplSignaltypNr="7"/>
+<Fplkm km="227.9993"/>
+</FplZeile>
+<FplZeile FplLaufweg="2098.2139">
+<FplvMax vMax="11.1111"/>
+<Fplkm km="228.5298"/>
+</FplZeile>
+<FplZeile FplLaufweg="2543.6934">
+<FplName FplNameText="Lüneburg"/>
+<Fplkm km="228.9794"/>
+<FplAnk Ank="2021-07-21 07:01:00"/>
+<FplAbf Abf="2021-07-21 07:03:00"/>
+</FplZeile>
+<FplZeile FplLaufweg="2793.6929">
+<FplSignaltyp FplSignaltypNr="8"/>
+<Fplkm km="229.233"/>
+</FplZeile>
+<FplZeile FplLaufweg="2868.8162">
+<FplvMax vMax="16.6667"/>
+<Fplkm km="229.3064"/>
+</FplZeile>
+<FplZeile FplLaufweg="3516.1233">
+<FplSignaltyp FplSignaltypNr="9"/>
+<Fplkm km="229.9524"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="3919.7256" FahrstrStrecke="498b">
+<Fplkm km="230.3126" FplSprung="1" FplkmNeu="132.9433"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="3921.8843" FahrstrStrecke="498b">
+<FplvMax vMax="27.7778"/>
+<Fplkm km="132.9451"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="4380.2397" FahrstrStrecke="498b">
+<FplvMax vMax="55.5556"/>
+<Fplkm km="133.4118"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="4680.6714" FahrstrStrecke="498b">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="133.7089"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="4691.168" FahrstrStrecke="498b">
+<FplName FplNameText="- Regionalgleis -" FplWichtigkeit="1"/>
+<Fplkm km="133.7194"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="8475.0801" FahrstrStrecke="498b">
+<FplName FplNameText="Bardowick Hp"/>
+<Fplkm km="137.4976"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="9050.2988" FahrstrStrecke="498b">
+<FplName FplNameText="Sbk 65319"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="138.0745"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="14698.0986" FahrstrStrecke="498b">
+<FplName FplNameText="Radbruch Hp"/>
+<Fplkm km="143.724"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="14943.8193" FahrstrStrecke="498b">
+<FplName FplNameText="Sbk 63329"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="143.9697"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="19766.8203" FahrstrStrecke="498b">
+<FplSignaltyp FplSignaltypNr="7"/>
+<Fplkm km="148.7789"/>
+</FplZeile>
+<FplZeile FplLaufweg="21415.6172">
+<FplName FplNameText="Winsen (Luhe)"/>
+<Fplkm km="150.4288"/>
+</FplZeile>
+<FplZeile FplLaufweg="21488.8047">
+<Fplkm km="150.5024"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="21503.918" FahrstrStrecke="498a">
+<Fplkm km="150.5024" FplSprung="1" FplkmNeu="149.976"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="21516.8047" FahrstrStrecke="498a">
+<FplName FplNameText="Asig (Ri R)"/>
+<Fplkm km="149.9755"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="21523.0488" FahrstrStrecke="498a">
+<FplName FplNameText="- Regionalgleis -"/>
+<Fplkm km="149.9693"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="21663.2129" FahrstrStrecke="498a">
+<FplIcon FplIconNr="17"/>
+<Fplkm km="149.8164"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="22734.7344" FahrstrStrecke="498a">
+<Fplkm km="148.8"/>
+<FplName FplNameText="Sbk 63336"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="24064.002" FahrstrStrecke="498a">
+<FplName FplNameText="Sbk 63334"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="147.4149"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="25472.1465" FahrstrStrecke="498a">
+<FplName FplNameText="Sbk 63332"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="146.0113"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="26749.4707" FahrstrStrecke="498a">
+<FplName FplNameText="Sbk 63330"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="144.7433"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="27789.9102" FahrstrStrecke="498a">
+<FplName FplNameText="Radbruch Hp"/>
+<Fplkm km="143.7028"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="27940.5918" FahrstrStrecke="498a">
+<FplName FplNameText="Sbk 65328"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="143.5521"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="29193.8711" FahrstrStrecke="498a">
+<FplName FplNameText="Sbk 65326"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="142.2989"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="30493.0117" FahrstrStrecke="498a">
+<FplName FplNameText="Sbk 65324"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="140.9998"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="31772.2793" FahrstrStrecke="498a">
+<FplName FplNameText="Sbk 65322"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="139.7202"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="32839.1055" FahrstrStrecke="498a">
+<FplName FplNameText="Sbk 65320"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="138.6524"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="33998.7031" FahrstrStrecke="498a">
+<FplName FplNameText="Bardowick Hp"/>
+<Fplkm km="137.4906"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="34139.3398" FahrstrStrecke="498a">
+<FplName FplNameText="Sbk 65316"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="137.3513"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="35333.0117" FahrstrStrecke="498a">
+<FplName FplNameText="Sbk 65314"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+<Fplkm km="136.1546"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="36537.8398" FahrstrStrecke="498a">
+<FplvMax vMax="44.4444"/>
+<Fplkm km="135"/>
+<FplName FplNameText="Sbk 65312"/>
+<FplSignaltyp FplSignaltypNr="10"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="37061.6914" FahrstrStrecke="498a">
+<FplIcon FplIconNr="22"/>
+<Fplkm km="134.4297"/>
+</FplZeile>
+<FplZeile FplRglGgl="1" FplLaufweg="37543.125" FahrstrStrecke="498a">
+<FplvMax vMax="27.7778"/>
+<Fplkm km="133.9"/>
+<FplName FplNameText="Esig Lüneburg"/>
+</FplZeile>
+<FplZeile FplLaufweg="38547.0742">
+<FplvMax vMax="16.6667"/>
+<Fplkm km="132.9433" FplSprung="1" FplkmNeu="230.3779"/>
+<FplIcon FplIconNr="19"/>
+</FplZeile>
+<FplZeile FplLaufweg="39310.4023">
+<FplvMax vMax="11.1111"/>
+<Fplkm km="229.6073"/>
+</FplZeile>
+<FplZeile FplLaufweg="39320.7031">
+<FplSignaltyp FplSignaltypNr="8"/>
+<Fplkm km="229.5831"/>
+</FplZeile>
+<FplZeile FplLaufweg="39931.3633">
+<FplName FplNameText="Lüneburg"/>
+<Fplkm km="228.9712"/>
+<FplAnk Ank="2021-07-21 07:56:00"/>
+<FplAbf Abf="2021-07-21 08:00:00"/>
+</FplZeile>
+<FplZeile FplLaufweg="40076.2734">
+<FplSignaltyp FplSignaltypNr="8"/>
+<Fplkm km="228.8263"/>
+</FplZeile>
+</Buchfahrplan>
+</Zusi>

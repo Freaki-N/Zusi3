@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="ICE" Nummer="557" Zuglauf="Berlin Ostbahnhof - Basel SBB" Prio="2500" BremsstellungZug="5" MBrh="1.841" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="2. Fernverkehr ri. Süden" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Hildesheim Hbf G" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\ICE557.timetable.xml"/>
+<FahrplanEintrag Ank="2021-07-21 09:33:00" Abf="2021-07-21 09:33:00" Betrst="Hildesheim Hbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="G"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 09:36:00" Abf="2021-07-21 09:38:00" Betrst="Hildesheim Hbf">
+<FahrplanSignalEintrag FahrplanSignal="S3"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:40:00" Betrst="Hildesheim Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P31"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:41:00" Betrst="Bk Himmelsthür">
+<FahrplanSignalEintrag FahrplanSignal="A"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:42:00" Betrst="Abzw Himmelsthür">
+<FahrplanSignalEintrag FahrplanSignal="335"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:43:00" Betrst="Abzw Sorsum">
+<FahrplanSignalEintrag FahrplanSignal="177"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:46:00" Betrst="Üst Diekholzen">
+<FahrplanSignalEintrag FahrplanSignal="205"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Almstedt" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="A315"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:48:00" Betrst="Almstedt">
+<FahrplanSignalEintrag FahrplanSignal="N301"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:50:00" Betrst="Üst Netze">
+<FahrplanSignalEintrag FahrplanSignal="401"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:52:00" Betrst="Üst Gehrenrode">
+<FahrplanSignalEintrag FahrplanSignal="407"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Orxhausen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="A515"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:55:00" Betrst="Orxhausen">
+<FahrplanSignalEintrag FahrplanSignal="N501"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:57:00" Betrst="Üst Ahlshausen">
+<FahrplanSignalEintrag FahrplanSignal="521"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 09:59:00" Betrst="Abzw Edesheim">
+<FahrplanSignalEintrag FahrplanSignal="107"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 109">
+<FahrplanSignalEintrag FahrplanSignal="109"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:01:00" Betrst="Üst Sudheim">
+<FahrplanSignalEintrag FahrplanSignal="111"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Nörten-Hardenbg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="B"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:03:00" Betrst="Nörten-Hardenbg">
+<FahrplanSignalEintrag FahrplanSignal="N054"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 207">
+<FahrplanSignalEintrag FahrplanSignal="207"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Göttingen Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="C115"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 10:07:00" Abf="2021-07-21 10:08:00" Betrst="Bft Göttingen Pbf">
+<FahrplanSignalEintrag FahrplanSignal="N10"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:10:00" Betrst="Abzw Siekweg">
+<FahrplanSignalEintrag FahrplanSignal="631"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 633">
+<FahrplanSignalEintrag FahrplanSignal="633"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:12:00" Betrst="Üst Mengershausen">
+<FahrplanSignalEintrag FahrplanSignal="711"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Jühnde Bbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="A717"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:13:00" Betrst="Jühnde Bbf">
+<FahrplanSignalEintrag FahrplanSignal="N701"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:15:00" Betrst="Üst Lippoldshsn">
+<FahrplanSignalEintrag FahrplanSignal="9"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:17:00" Betrst="Üst Kattenbühl">
+<FahrplanSignalEintrag FahrplanSignal="17"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:20:00" Betrst="Üst Lutterberg">
+<FahrplanSignalEintrag FahrplanSignal="61"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="F-Ihringshausen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="B142"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:23:00" Betrst="F-Ihringshausen">
+<FahrplanSignalEintrag FahrplanSignal="N102"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 188">
+<FahrplanSignalEintrag FahrplanSignal="Sbk 188"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:25:00" Betrst="Abzw Nord/West A">
+<FahrplanSignalEintrag FahrplanSignal="203"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:26:00" Betrst="Abzw Nord/West B">
+<FahrplanSignalEintrag FahrplanSignal="205"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Kassel-Wilhelmshöhe" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="A542"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 10:27:00" Abf="2021-07-21 10:29:00" Betrst="Kassel-Wilhelmshöhe">
+<FahrplanSignalEintrag FahrplanSignal="N502"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 10:32:00" Betrst="Kassel-Wilhelmshöhe" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="N602"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" DotraModus="1" SASchaltung="3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\401.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\802_Bvmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\804_WSmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\803_BSmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\801_Avmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\801_Avmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\801_Avmz.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE1_2\401.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

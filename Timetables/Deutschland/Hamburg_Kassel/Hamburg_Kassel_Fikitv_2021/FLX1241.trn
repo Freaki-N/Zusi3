@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="FLX" Nummer="1241" Zuglauf="Hamburg Altona - München Hbf" Prio="2500" BremsstellungZug="5" MBrh="1.841" APBeschl="1" ReisendenDichte="0.6" FahrplanGruppe="2. Fernverkehr ri. Süden" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Hmb-Harburg 41F" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021.fpn" NurInfo="1"/>
+<BuchfahrplanRohDatei Dateiname="Timetables\Deutschland\Hamburg_Kassel\Hamburg_Kassel_Fikitv_2021\FLX1241.timetable.xml"/>
+<FahrplanEintrag Ank="2021-07-21 07:33:00" Abf="2021-07-21 07:33:00" Betrst="Hmb-Harburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="41F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Hmb-Harburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="41S4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:35:00" Abf="2021-07-21 07:37:00" Betrst="Hmb-Harburg">
+<FahrplanSignalEintrag FahrplanSignal="41U4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Hmb-Harburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="41P4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:41:00" Betrst="Meckelfeld Hp"/>
+<FahrplanEintrag Abf="2021-07-21 07:41:00" Betrst="Bft Meckelfeld Abzw" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="H"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 172">
+<FahrplanSignalEintrag FahrplanSignal="172"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:42:00" Betrst="Maschen Pbf">
+<FahrplanSignalEintrag FahrplanSignal="P4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:43:00" Betrst="Stelle">
+<FahrplanSignalEintrag FahrplanSignal="P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 63244">
+<FahrplanSignalEintrag FahrplanSignal="63244"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:45:00" Betrst="Winsen (Luhe)">
+<FahrplanSignalEintrag FahrplanSignal="63P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 63230">
+<FahrplanSignalEintrag FahrplanSignal="63230"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 65222">
+<FahrplanSignalEintrag FahrplanSignal="65222"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:50:00" Betrst="Bardowick">
+<FahrplanSignalEintrag FahrplanSignal="65P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lüneburg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="G005"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 07:53:00" Abf="2021-07-21 07:55:00" Betrst="Lüneburg">
+<FahrplanSignalEintrag FahrplanSignal="S201"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:56:00" Betrst="Lüneburg Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P101"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 07:58:00" Betrst="Deutsch Evern">
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:01:00" Betrst="Bienenbüttel">
+<FahrplanSignalEintrag FahrplanSignal="P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bad Bevensen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:04:00" Betrst="Bad Bevensen">
+<FahrplanSignalEintrag FahrplanSignal="P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Uelzen" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="G"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 08:09:00" Abf="2021-07-21 08:11:00" Betrst="Uelzen">
+<FahrplanSignalEintrag FahrplanSignal="S101"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:12:00" Betrst="Uelzen Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 71212">
+<FahrplanSignalEintrag FahrplanSignal="71212"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:14:00" Betrst="Klein Süstedt">
+<FahrplanSignalEintrag FahrplanSignal="71P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 72208">
+<FahrplanSignalEintrag FahrplanSignal="72208"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:16:00" Betrst="Suderburg">
+<FahrplanSignalEintrag FahrplanSignal="72P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 73216">
+<FahrplanSignalEintrag FahrplanSignal="73216"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:20:00" Betrst="Unterlüß">
+<FahrplanSignalEintrag FahrplanSignal="73P7"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 73202">
+<FahrplanSignalEintrag FahrplanSignal="73202"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:24:00" Betrst="Eschede">
+<FahrplanSignalEintrag FahrplanSignal="74P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 75212">
+<FahrplanSignalEintrag FahrplanSignal="75212"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:28:00" Betrst="Garßen">
+<FahrplanSignalEintrag FahrplanSignal="75P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 75202">
+<FahrplanSignalEintrag FahrplanSignal="75202"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Celle">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+<FahrplanFahrstrasseEintrag FahrplanFahrstrasse="Celle F -&gt; Celle S6"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2021-07-21 08:31:00" Abf="2021-07-21 08:33:00" Betrst="Celle">
+<FahrplanSignalEintrag FahrplanSignal="S6"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:34:00" Betrst="Celle Gbf">
+<FahrplanSignalEintrag FahrplanSignal="P27"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:39:00" Betrst="Ehlershausen">
+<FahrplanSignalEintrag FahrplanSignal="7P702"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:41:00" Betrst="Otze Hp"/>
+<FahrplanEintrag Abf="2021-07-21 08:43:00" Betrst="Burgdorf">
+<FahrplanSignalEintrag FahrplanSignal="S642"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:46:00" Betrst="Aligse Hp"/>
+<FahrplanEintrag Abf="2021-07-21 08:47:00" Betrst="Lehrte Nord">
+<FahrplanSignalEintrag FahrplanSignal="R221"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="T151"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2021-07-21 08:48:00" Betrst="Lehrte Pbf">
+<FahrplanSignalEintrag FahrplanSignal="X011"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="Q710"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Lehrte Pbf" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="N820"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" SASchaltung="2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektroloks\Vectron\Vectron_AC.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="4" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimz264.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\ARkimbz262.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Reisezugwagen\BRD\Interregio\Bimdz268.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>
