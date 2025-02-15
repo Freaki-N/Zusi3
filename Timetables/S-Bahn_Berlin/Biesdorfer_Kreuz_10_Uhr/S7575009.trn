@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.5" MinVersion="A.1"/>
+<Zug Gattung="S75" Nummer="75009" Zuglauf="Wartenberg - Warschauer Str." Prio="1500" BremsstellungZug="5" MBrh="1.19" Verkehrstage="Mo-Fr" spZugNiedriger="23.6111" APBeschl="0.8" ReisendenDichte="0.6" FahrplanGruppe="S75 Wartenberg - Warschauer Str." Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Bft Wartenberg 5420" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:10:00" Abf="2024-12-24 10:16:00" Betrst="Bft Wartenberg">
+<FahrplanSignalEintrag FahrplanSignal="5420"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:17:40" Abf="2024-12-24 10:18:00" Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5418"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:19:40" Abf="2024-12-24 10:20:00" Betrst="Gehrenseestr Hp"/>
+<FahrplanEintrag Betrst="Sbk 5406">
+<FahrplanSignalEintrag FahrplanSignal="5406"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="5404"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:23:00" Abf="2024-12-24 10:26:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:28:30" Abf="2024-12-24 10:29:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0484 027-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 1484 027-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 1484 527-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0484 527-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0484 027-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 1484 027-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 1484 527-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0484 527-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

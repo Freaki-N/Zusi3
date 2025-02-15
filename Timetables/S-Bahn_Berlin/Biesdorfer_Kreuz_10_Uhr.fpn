@@ -1,0 +1,1707 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Fahrplan" Version="A.5" MinVersion="A.1"/>
+<Fahrplan AnfangsZeit="2024-12-24 10:00:00">
+<BefehlsKonfiguration Dateiname="signals\Deutschland\Befehle\408_2015.authority.xml"/>
+<LaPDF/>
+<StrebuPDF/>
+<ErsatzfahrplaenePDF/>
+<Begruessungsdatei/>
+<trn Gattung="S" Nummer="99021" Zuglauf="Ostbahnhof - Wartenberg" Prio="1500" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" LODzug="3" ReisendenDichte="0.6" FahrplanGruppe="Sonderzüge" Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:09:00" Abf="2024-12-24 10:09:00" Betrst="Bft Friedrichsf Ost" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1001">
+<FahrplanSignalEintrag FahrplanSignal="1001"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1005"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1007"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2024-12-24 10:12:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1011"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2024-12-24 10:15:00" Betrst="Gehrenseestr Hp"/>
+<FahrplanEintrag Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5413"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2024-12-24 10:18:00" Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5417"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:21:00" Abf="2024-12-24 12:00:00" Betrst="Bft Wartenberg">
+<FahrplanSignalEintrag FahrplanSignal="Gleis 11"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="3" NVRNummer="275 967-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche2\Elektrotriebwagen\ET165\ET165.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="275 968-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche2\Elektrotriebwagen\ET165\EB165.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="3" NVRNummer="275 967-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche2\Elektrotriebwagen\ET165\ET165.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="275 968-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche2\Elektrotriebwagen\ET165\EB165.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="3" NVRNummer="275 968-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche2\Elektrotriebwagen\ET165\EB165.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="275 967-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche2\Elektrotriebwagen\ET165\ET165.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="3" NVRNummer="275 968-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche2\Elektrotriebwagen\ET165\EB165.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="275 967-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche2\Elektrotriebwagen\ET165\ET165.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S7" Nummer="70050" Zuglauf="Potsdam Hbf - Ahrensfelde" Prio="1500" BremsstellungZug="5" MBrh="1.26" APBeschl="0.5" LODzug="2" ReisendenDichte="0.6" FahrplanGruppe="S7 Potsdam Hbf - Ahrensfelde" Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:10:40" Abf="2024-12-24 10:11:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1001">
+<FahrplanSignalEintrag FahrplanSignal="1001"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1005"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1007"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:13:40" Abf="2024-12-24 10:14:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1011"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1013">
+<FahrplanSignalEintrag FahrplanSignal="1013"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:15:40" Abf="2024-12-24 10:16:00" Betrst="Poelchaustr Hp"/>
+<FahrplanEintrag Betrst="Sbk 1015">
+<FahrplanSignalEintrag FahrplanSignal="1015"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0484 027-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 1484 027-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 1484 527-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0484 527-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S75" Nummer="75012" Zuglauf="Warschauer Str. - Wartenberg - Warschauer Str." Prio="1500" BremsstellungZug="5" MBrh="1.19" Verkehrstage="Mo-Fr" spZugNiedriger="23.6111" APBeschl="0.8" LODzug="3" ReisendenDichte="0.6" FahrplanGruppe="S75 Warschauer Str. - Wartenberg - Warschauer Str." Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:15:30" Abf="2024-12-24 10:16:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1001">
+<FahrplanSignalEintrag FahrplanSignal="1001"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1005"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1007"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:18:00" Abf="2024-12-24 10:21:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1011"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:23:30" Abf="2024-12-24 10:24:00" Betrst="Gehrenseestr Hp"/>
+<FahrplanEintrag Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5413"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:26:30" Abf="2024-12-24 10:27:00" Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5417"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:29:00" Abf="2024-12-24 10:36:00" Betrst="Bft Wartenberg" FzgVerbandAktion="2">
+<FahrplanSignalEintrag FahrplanSignal="Gleis 12"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:37:40" Abf="2024-12-24 10:38:00" Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5418"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:39:40" Abf="2024-12-24 10:40:00" Betrst="Gehrenseestr Hp"/>
+<FahrplanEintrag Betrst="Sbk 5406">
+<FahrplanSignalEintrag FahrplanSignal="5406"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="5404"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:43:00" Abf="2024-12-24 10:46:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:48:30" Abf="2024-12-24 10:49:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 425-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 425-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S75" Nummer="75014" Zuglauf="Warschauer Str. - Wartenberg - Warschauer Str." Prio="1500" BremsstellungZug="5" MBrh="1.19" Verkehrstage="Mo-Fr" spZugNiedriger="23.6111" APBeschl="0.8" LODzug="3" ReisendenDichte="0.6" FahrplanGruppe="S75 Warschauer Str. - Wartenberg - Warschauer Str." Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:25:30" Abf="2024-12-24 10:26:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1001">
+<FahrplanSignalEintrag FahrplanSignal="1001"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1005"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1007"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:28:00" Abf="2024-12-24 10:31:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1011"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:33:30" Abf="2024-12-24 10:34:00" Betrst="Gehrenseestr Hp"/>
+<FahrplanEintrag Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5413"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:36:30" Abf="2024-12-24 10:37:00" Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5417"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:39:00" Abf="2024-12-24 10:46:00" Betrst="Bft Wartenberg" FzgVerbandAktion="2">
+<FahrplanSignalEintrag FahrplanSignal="Gleis 11"/>
+<FahrplanSignalEintrag FahrplanSignal="Gleis 12"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:47:40" Abf="2024-12-24 10:48:00" Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5418"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:49:40" Abf="2024-12-24 10:50:00" Betrst="Gehrenseestr Hp"/>
+<FahrplanEintrag Betrst="Sbk 5406" ErsatzsignalzeilePlus1="2">
+<FahrplanSignalEintrag FahrplanSignal="5406"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="5404"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:53:00" Abf="2024-12-24 10:56:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:58:30" Abf="2024-12-24 10:59:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0484 027-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 1484 027-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 1484 527-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0484 527-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0484 027-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 1484 027-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 1484 527-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0484 527-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S7" Nummer="70052" Zuglauf="Potsdam Hbf - Ahrensfelde" Prio="1500" BremsstellungZug="5" MBrh="1.26" APBeschl="0.5" LODzug="2" ReisendenDichte="0.6" FahrplanGruppe="S7 Potsdam Hbf - Ahrensfelde" Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:20:40" Abf="2024-12-24 10:21:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1001">
+<FahrplanSignalEintrag FahrplanSignal="1001"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1005"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1007"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:23:40" Abf="2024-12-24 10:24:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1011"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1013">
+<FahrplanSignalEintrag FahrplanSignal="1013"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:25:40" Abf="2024-12-24 10:26:00" Betrst="Poelchaustr Hp"/>
+<FahrplanEintrag Betrst="Sbk 1015">
+<FahrplanSignalEintrag FahrplanSignal="1015"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0484 027-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 1484 027-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 1484 527-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0484 527-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S7" Nummer="70054" Zuglauf="Potsdam Hbf - Ahrensfelde" Prio="1500" BremsstellungZug="5" MBrh="1.26" APBeschl="0.5" LODzug="2" ReisendenDichte="0.6" FahrplanGruppe="S7 Potsdam Hbf - Ahrensfelde" Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:30:40" Abf="2024-12-24 10:31:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1001">
+<FahrplanSignalEintrag FahrplanSignal="1001"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1005"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1007"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:33:40" Abf="2024-12-24 10:34:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1011"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1013">
+<FahrplanSignalEintrag FahrplanSignal="1013"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:35:40" Abf="2024-12-24 10:36:00" Betrst="Poelchaustr Hp"/>
+<FahrplanEintrag Betrst="Sbk 1015">
+<FahrplanSignalEintrag FahrplanSignal="1015"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0484 027-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 1484 027-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 1484 527-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0484 527-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S75" Nummer="75007" Zuglauf="Wartenberg - Warschauer Str." Prio="1500" BremsstellungZug="5" MBrh="1.19" Verkehrstage="Mo-Fr" APBeschl="0.8" LODzug="3" ReisendenDichte="0.6" FahrplanGruppe="S75 Wartenberg - Warschauer Str." Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Bft Wartenberg 5420" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:00:00" Abf="2024-12-24 10:06:00" Betrst="Bft Wartenberg">
+<FahrplanSignalEintrag FahrplanSignal="5420"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:07:40" Abf="2024-12-24 10:08:00" Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5418"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:09:40" Abf="2024-12-24 10:10:00" Betrst="Gehrenseestr Hp"/>
+<FahrplanEintrag Betrst="Sbk 5406">
+<FahrplanSignalEintrag FahrplanSignal="5406"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="5404"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:13:00" Abf="2024-12-24 10:16:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:18:30" Abf="2024-12-24 10:19:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0484 027-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 1484 027-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 1484 527-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0484 527-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0483 015-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0483 515-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S75" Nummer="75009" Zuglauf="Wartenberg - Warschauer Str." Prio="1500" BremsstellungZug="5" MBrh="1.19" Verkehrstage="Mo-Fr" APBeschl="0.8" LODzug="3" ReisendenDichte="0.6" FahrplanGruppe="S75 Wartenberg - Warschauer Str." Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Bft Wartenberg 5420" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:10:00" Abf="2024-12-24 10:16:00" Betrst="Bft Wartenberg">
+<FahrplanSignalEintrag FahrplanSignal="5420"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:17:40" Abf="2024-12-24 10:18:00" Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5418"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:19:40" Abf="2024-12-24 10:20:00" Betrst="Gehrenseestr Hp"/>
+<FahrplanEintrag Betrst="Sbk 5406">
+<FahrplanSignalEintrag FahrplanSignal="5406"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="5404"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:23:00" Abf="2024-12-24 10:26:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:28:30" Abf="2024-12-24 10:29:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S75" Nummer="75011" Zuglauf="Wartenberg - Warschauer Str." Prio="1500" BremsstellungZug="5" MBrh="1.19" Verkehrstage="Mo-Fr" APBeschl="0.8" LODzug="3" ReisendenDichte="0.6" FahrplanGruppe="S75 Wartenberg - Warschauer Str." Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Bft Wartenberg 5420" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:20:00" Abf="2024-12-24 10:26:00" Betrst="Bft Wartenberg">
+<FahrplanSignalEintrag FahrplanSignal="5420"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:27:40" Abf="2024-12-24 10:28:00" Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5418"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:29:40" Abf="2024-12-24 10:30:00" Betrst="Gehrenseestr Hp"/>
+<FahrplanEintrag Betrst="Sbk 5406">
+<FahrplanSignalEintrag FahrplanSignal="5406"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="5404"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:33:00" Abf="2024-12-24 10:36:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:38:30" Abf="2024-12-24 10:39:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0484 027-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 1484 027-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 1484 527-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0484 527-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0483 015-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0483 515-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="70051" Zuglauf="Ahrensfelde - Potsdam Hbf" Prio="1500" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" LODzug="2" ReisendenDichte="0.6" FahrplanGruppe="S7 Ahrensfelde - Potsdam Hbf" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Sbk 1018 1018" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:08:40" Abf="2024-12-24 10:09:00" Betrst="Sbk 1018">
+<FahrplanSignalEintrag FahrplanSignal="1018"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1016"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:10:40" Abf="2024-12-24 10:11:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:13:40" Abf="2024-12-24 10:14:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="70053" Zuglauf="Ahrensfelde - Potsdam Hbf" Prio="1500" Standortmodus="2" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" LODzug="2" ReisendenDichte="0.6" FahrplanGruppe="S7 Ahrensfelde - Potsdam Hbf" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Sbk 1018 1018" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:18:40" Abf="2024-12-24 10:19:00" Betrst="Sbk 1018">
+<FahrplanSignalEintrag FahrplanSignal="1018"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1016"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:20:40" Abf="2024-12-24 10:21:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:23:40" Abf="2024-12-24 10:24:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="70055" Zuglauf="Ahrensfelde - Potsdam Hbf" Prio="1500" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" LODzug="2" ReisendenDichte="0.6" FahrplanGruppe="S7 Ahrensfelde - Potsdam Hbf" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Sbk 1018 1018" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:28:40" Abf="2024-12-24 10:29:00" Betrst="Sbk 1018">
+<FahrplanSignalEintrag FahrplanSignal="1018"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1016"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:30:40" Abf="2024-12-24 10:31:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:33:40" Abf="2024-12-24 10:34:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="70057" Zuglauf="Ahrensfelde - Potsdam Hbf" Prio="1500" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" LODzug="2" ReisendenDichte="0.6" FahrplanGruppe="S7 Ahrensfelde - Potsdam Hbf" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Sbk 1018 1018" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:38:40" Abf="2024-12-24 10:39:00" Betrst="Sbk 1018">
+<FahrplanSignalEintrag FahrplanSignal="1018"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1016"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:40:40" Abf="2024-12-24 10:41:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:43:40" Abf="2024-12-24 10:44:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="70059" Zuglauf="Ahrensfelde - Potsdam Hbf" Prio="1500" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" LODzug="2" ReisendenDichte="0.6" FahrplanGruppe="S7 Ahrensfelde - Potsdam Hbf" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Sbk 1018 1018" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:48:40" Abf="2024-12-24 10:49:00" Betrst="Sbk 1018">
+<FahrplanSignalEintrag FahrplanSignal="1018"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1016"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:50:40" Abf="2024-12-24 10:51:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:53:40" Abf="2024-12-24 10:54:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="70061" Zuglauf="Ahrensfelde - Potsdam Hbf" Prio="1500" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" LODzug="2" ReisendenDichte="0.6" FahrplanGruppe="S7 Ahrensfelde - Potsdam Hbf" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Sbk 1018 1018" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:58:40" Abf="2024-12-24 10:59:00" Betrst="Sbk 1018">
+<FahrplanSignalEintrag FahrplanSignal="1018"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1016"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 11:00:40" Abf="2024-12-24 11:01:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 11:03:40" Abf="2024-12-24 11:04:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="50010" Zuglauf="Westkreuz - Strausberg Nord" Prio="1500" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" LODzug="3" ReisendenDichte="0.6" FahrplanGruppe="Deko Friedrichsfelde Ost" Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:02:40" Abf="2024-12-24 10:03:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1199">
+<FahrplanSignalEintrag FahrplanSignal="1199"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1203">
+<FahrplanSignalEintrag FahrplanSignal="1203"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1205">
+<FahrplanSignalEintrag FahrplanSignal="1205"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:05:40" Abf="2024-12-24 10:06:00" Betrst="Biesdorf Hp"/>
+<FahrplanEintrag Betrst="Sbk 1207">
+<FahrplanSignalEintrag FahrplanSignal="1207"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S7" Nummer="70056" Zuglauf="Potsdam Hbf - Ahrensfelde" Prio="1500" BremsstellungZug="5" MBrh="1.26" APBeschl="0.5" LODzug="2" ReisendenDichte="0.6" FahrplanGruppe="S7 Potsdam Hbf - Ahrensfelde" Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:40:40" Abf="2024-12-24 10:41:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1001">
+<FahrplanSignalEintrag FahrplanSignal="1001"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1005"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1007"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:43:40" Abf="2024-12-24 10:44:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1011"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1013">
+<FahrplanSignalEintrag FahrplanSignal="1013"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:45:40" Abf="2024-12-24 10:46:00" Betrst="Poelchaustr Hp"/>
+<FahrplanEintrag Betrst="Sbk 1015">
+<FahrplanSignalEintrag FahrplanSignal="1015"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0484 027-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 1484 027-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 1484 527-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0484 527-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S7" Nummer="70058" Zuglauf="Potsdam Hbf - Ahrensfelde" Prio="1500" BremsstellungZug="5" MBrh="1.26" APBeschl="0.5" LODzug="2" ReisendenDichte="0.6" FahrplanGruppe="S7 Potsdam Hbf - Ahrensfelde" Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:50:40" Abf="2024-12-24 10:51:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1001">
+<FahrplanSignalEintrag FahrplanSignal="1001"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1005"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1007"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:53:40" Abf="2024-12-24 10:54:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1011"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1013">
+<FahrplanSignalEintrag FahrplanSignal="1013"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:55:40" Abf="2024-12-24 10:56:00" Betrst="Poelchaustr Hp"/>
+<FahrplanEintrag Betrst="Sbk 1015">
+<FahrplanSignalEintrag FahrplanSignal="1015"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0484 027-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 1484 027-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 1484 527-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0484 527-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="50012" Zuglauf="Westkreuz - Strausberg Nord" Prio="1500" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="Deko Friedrichsfelde Ost" Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:12:40" Abf="2024-12-24 10:13:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1199">
+<FahrplanSignalEintrag FahrplanSignal="1199"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1203">
+<FahrplanSignalEintrag FahrplanSignal="1203"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1205">
+<FahrplanSignalEintrag FahrplanSignal="1205"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:15:40" Abf="2024-12-24 10:16:00" Betrst="Biesdorf Hp"/>
+<FahrplanEintrag Betrst="Sbk 1207">
+<FahrplanSignalEintrag FahrplanSignal="1207"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="50014" Zuglauf="Westkreuz - Strausberg Nord" Prio="1500" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="Deko Friedrichsfelde Ost" Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:22:40" Abf="2024-12-24 10:23:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1199">
+<FahrplanSignalEintrag FahrplanSignal="1199"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1203">
+<FahrplanSignalEintrag FahrplanSignal="1203"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1205">
+<FahrplanSignalEintrag FahrplanSignal="1205"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:25:40" Abf="2024-12-24 10:26:00" Betrst="Biesdorf Hp"/>
+<FahrplanEintrag Betrst="Sbk 1207">
+<FahrplanSignalEintrag FahrplanSignal="1207"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="50016" Zuglauf="Westkreuz - Strausberg Nord" Prio="1500" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="Deko Friedrichsfelde Ost" Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:32:40" Abf="2024-12-24 10:33:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1199">
+<FahrplanSignalEintrag FahrplanSignal="1199"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1203">
+<FahrplanSignalEintrag FahrplanSignal="1203"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1205">
+<FahrplanSignalEintrag FahrplanSignal="1205"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:35:40" Abf="2024-12-24 10:36:00" Betrst="Biesdorf Hp"/>
+<FahrplanEintrag Betrst="Sbk 1207">
+<FahrplanSignalEintrag FahrplanSignal="1207"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="50018" Zuglauf="Westkreuz - Strausberg Nord" Prio="1500" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="Deko Friedrichsfelde Ost" Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:42:40" Abf="2024-12-24 10:43:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1199">
+<FahrplanSignalEintrag FahrplanSignal="1199"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1203">
+<FahrplanSignalEintrag FahrplanSignal="1203"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1205">
+<FahrplanSignalEintrag FahrplanSignal="1205"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:45:40" Abf="2024-12-24 10:46:00" Betrst="Biesdorf Hp"/>
+<FahrplanEintrag Betrst="Sbk 1207">
+<FahrplanSignalEintrag FahrplanSignal="1207"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S75" Nummer="75016" Zuglauf="Warschauer Str. - Wartenberg - Warschauer Str." Prio="1500" BremsstellungZug="5" MBrh="1.19" Verkehrstage="Mo-Fr" APBeschl="0.8" LODzug="3" ReisendenDichte="0.6" FahrplanGruppe="S75 Warschauer Str. - Wartenberg - Warschauer Str." Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:35:30" Abf="2024-12-24 10:36:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1001">
+<FahrplanSignalEintrag FahrplanSignal="1001"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1005"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1007"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:38:00" Abf="2024-12-24 10:41:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1011"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:43:30" Abf="2024-12-24 10:44:00" Betrst="Gehrenseestr Hp"/>
+<FahrplanEintrag Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5413"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:46:30" Abf="2024-12-24 10:47:00" Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5417"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:49:00" Abf="2024-12-24 10:56:00" Betrst="Bft Wartenberg" FzgVerbandAktion="2">
+<FahrplanSignalEintrag FahrplanSignal="Gleis 11"/>
+<FahrplanSignalEintrag FahrplanSignal="Gleis 12"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:57:40" Abf="2024-12-24 10:58:00" Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5418"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:59:40" Abf="2024-12-24 11:00:00" Betrst="Gehrenseestr Hp"/>
+<FahrplanEintrag Betrst="Sbk 5406" ErsatzsignalzeilePlus1="2">
+<FahrplanSignalEintrag FahrplanSignal="5406"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="5404"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 11:03:00" Abf="2024-12-24 11:06:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 11:08:30" Abf="2024-12-24 11:09:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S75" Nummer="75018" Zuglauf="Warschauer Str. - Wartenberg - Warschauer Str." Prio="1500" BremsstellungZug="5" MBrh="1.19" Verkehrstage="Mo-Fr" spZugNiedriger="23.6111" APBeschl="0.8" LODzug="3" ReisendenDichte="0.6" FahrplanGruppe="S75 Warschauer Str. - Wartenberg - Warschauer Str." Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:45:30" Abf="2024-12-24 10:46:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1001">
+<FahrplanSignalEintrag FahrplanSignal="1001"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1005"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1007"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:48:00" Abf="2024-12-24 10:51:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1011"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:53:30" Abf="2024-12-24 10:54:00" Betrst="Gehrenseestr Hp"/>
+<FahrplanEintrag Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5413"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:56:30" Abf="2024-12-24 10:57:00" Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5417"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:59:00" Abf="2024-12-24 11:06:00" Betrst="Bft Wartenberg" FzgVerbandAktion="2">
+<FahrplanSignalEintrag FahrplanSignal="Gleis 11"/>
+<FahrplanSignalEintrag FahrplanSignal="Gleis 12"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 11:07:40" Abf="2024-12-24 11:08:00" Betrst="Hohenschhsn (S)">
+<FahrplanSignalEintrag FahrplanSignal="5418"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 11:09:40" Abf="2024-12-24 11:10:00" Betrst="Gehrenseestr Hp"/>
+<FahrplanEintrag Betrst="Sbk 5406" ErsatzsignalzeilePlus1="2">
+<FahrplanSignalEintrag FahrplanSignal="5406"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="5404"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 11:13:00" Abf="2024-12-24 11:16:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 11:18:30" Abf="2024-12-24 11:19:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0484 027-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 1484 027-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 1484 527-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0484 527-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 0484 027-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" StartAntriebIndex="-1" DotraModus="1" SASchaltung="1" NVRNummer="94 80 1484 027-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 1484 527-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\484_Mittelwg.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" StartAntriebIndex="-1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="94 80 0484 527-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\483_484\483_484_Endwg.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="50011" Zuglauf="Strausberg Nord - Westkreuz" Prio="1500" Standortmodus="1" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="Deko Friedrichsfelde Ost" Rekursionstiefe="5" FahrstrName="Sbk 1210 1210 -&gt; Sbk 1208 1208" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:07:00" Abf="2024-12-24 10:07:00" Betrst="Sbk 1208" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="1208"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1206">
+<FahrplanSignalEintrag FahrplanSignal="1206"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1202"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:11:00" Abf="2024-12-24 10:12:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 425-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 425-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="50013" Zuglauf="Strausberg Nord - Westkreuz" Prio="1500" Standortmodus="1" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="Deko Friedrichsfelde Ost" Rekursionstiefe="5" FahrstrName="Sbk 1210 1210 -&gt; Sbk 1208 1208" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:17:00" Abf="2024-12-24 10:17:00" Betrst="Sbk 1208" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="1208"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1206">
+<FahrplanSignalEintrag FahrplanSignal="1206"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1202"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:21:00" Abf="2024-12-24 10:22:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 425-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 425-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="50015" Zuglauf="Strausberg Nord - Westkreuz" Prio="1500" Standortmodus="1" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="Deko Friedrichsfelde Ost" Rekursionstiefe="5" FahrstrName="Sbk 1210 1210 -&gt; Sbk 1208 1208" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:27:00" Abf="2024-12-24 10:27:00" Betrst="Sbk 1208" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="1208"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1206">
+<FahrplanSignalEintrag FahrplanSignal="1206"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1202"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:31:00" Abf="2024-12-24 10:32:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 425-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 425-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="50017" Zuglauf="Strausberg Nord - Westkreuz" Prio="1500" Standortmodus="1" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="Deko Friedrichsfelde Ost" Rekursionstiefe="5" FahrstrName="Sbk 1210 1210 -&gt; Sbk 1208 1208" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:37:00" Abf="2024-12-24 10:37:00" Betrst="Sbk 1208" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="1208"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1206">
+<FahrplanSignalEintrag FahrplanSignal="1206"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1202"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:41:00" Abf="2024-12-24 10:42:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 425-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 425-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="50019" Zuglauf="Strausberg Nord - Westkreuz" Prio="1500" Standortmodus="1" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="Deko Friedrichsfelde Ost" Rekursionstiefe="5" FahrstrName="Sbk 1210 1210 -&gt; Sbk 1208 1208" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:47:00" Abf="2024-12-24 10:47:00" Betrst="Sbk 1208" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="1208"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1206">
+<FahrplanSignalEintrag FahrplanSignal="1206"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1202"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:51:00" Abf="2024-12-24 10:52:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 425-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 425-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<trn Gattung="S" Nummer="50021" Zuglauf="Strausberg Nord - Westkreuz" Prio="1500" Standortmodus="1" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="Deko Friedrichsfelde Ost" Rekursionstiefe="5" FahrstrName="Sbk 1210 1210 -&gt; Sbk 1208 1208" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:57:00" Abf="2024-12-24 10:57:00" Betrst="Sbk 1208" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="1208"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1206">
+<FahrplanSignalEintrag FahrplanSignal="1206"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1202"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 11:01:00" Abf="2024-12-24 11:02:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 425-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 425-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</trn>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\33U_0004_0058\000399_005824_Hohenschoenhausen\Hohenschoenhausen_2020.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\33U_0004_0058\000400_005822_Springpfuhl\Springpfuhl_2020.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\33U_0004_0058\000401_005817_Wuhlheide_Rbf\Wuhlheide_Rbf_1993.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<StrModul>
+<Datei Dateiname="routes\Deutschland\33U_0004_0058\000401_005819_Biesdorfer_Kreuz\Biesdorfer_Kreuz_2020.st3"/>
+<p/>
+<phi/>
+</StrModul>
+<UTM UTM_WE="400" UTM_NS="5820" UTM_Zone="33" UTM_Zone2="U"/>
+</Fahrplan>
+</Zusi>

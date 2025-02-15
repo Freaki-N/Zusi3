@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.5" MinVersion="A.1"/>
+<Zug Gattung="S" Nummer="50010" Zuglauf="Westkreuz - Strausberg Nord" Prio="1500" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="Deko Friedrichsfelde Ost" Rekursionstiefe="5" FahrstrName="Bft Friedrichsf Ost 1189 -&gt; Bft Friedrichsf Ost 1193" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:02:40" Abf="2024-12-24 10:03:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1193"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1197"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1199">
+<FahrplanSignalEintrag FahrplanSignal="1199"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1203">
+<FahrplanSignalEintrag FahrplanSignal="1203"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1205">
+<FahrplanSignalEintrag FahrplanSignal="1205"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:05:40" Abf="2024-12-24 10:06:00" Betrst="Biesdorf Hp"/>
+<FahrplanEintrag Betrst="Sbk 1207">
+<FahrplanSignalEintrag FahrplanSignal="1207"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

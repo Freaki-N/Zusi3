@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.5" MinVersion="A.1"/>
+<Zug Gattung="S" Nummer="70053" Zuglauf="Ahrensfelde - Potsdam Hbf" Prio="1500" BremsstellungZug="5" MBrh="1.19" APBeschl="0.5" ReisendenDichte="0.6" FahrplanGruppe="S7 Ahrensfelde - Potsdam Hbf" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Sbk 1018 1018" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\S-Bahn_Berlin\Biesdorfer_Kreuz_10_Uhr.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2024-12-24 10:18:40" Abf="2024-12-24 10:19:00" Betrst="Sbk 1018">
+<FahrplanSignalEintrag FahrplanSignal="1018"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1016"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1012"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:20:40" Abf="2024-12-24 10:21:00" Betrst="Springpfuhl">
+<FahrplanSignalEintrag FahrplanSignal="1010"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1006">
+<FahrplanSignalEintrag FahrplanSignal="1006"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Sbk 1004">
+<FahrplanSignalEintrag FahrplanSignal="1004"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1002"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1200"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Biesdf Kr S-Bahn">
+<FahrplanSignalEintrag FahrplanSignal="1198"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1196"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2024-12-24 10:23:40" Abf="2024-12-24 11:24:00" Betrst="Bft Friedrichsf Ost">
+<FahrplanSignalEintrag FahrplanSignal="1194"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 112-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 112-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 354-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 354-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="481 425-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="482 425-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" NVRNummer="482 380-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\482.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="3" Gedreht="1" NVRNummer="481 380-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\481\481.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>
